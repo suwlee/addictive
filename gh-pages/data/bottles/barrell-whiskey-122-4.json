@@ -1,0 +1,24 @@
+{
+  "id": "barrell-whiskey-122-4",
+  "name": "Barrell Whiskey 122.4 Proof",
+  "subtitle": "Barrell Whiskey",
+  "category": "American Whiskey",
+  "region": "United States",
+  "abv": "61.2%",
+  "age": "미확인",
+  "flavors": [
+    "Toffee",
+    "Oak",
+    "Spice"
+  ],
+  "description": "상단 우측의 Barrell Whiskey 라벨에서 122.4 proof 표기가 확인됩니다. 세부 배치명은 이미지에서 완전히 읽히지 않지만 고도수 Barrell 셀렉션으로 기록했습니다.",
+  "notes": {
+    "nose": "토피, 바닐라, 오렌지 껍질, 구운 오크.",
+    "palate": "진한 캐러멜, 향신료, 다크 허니, 강한 구조감.",
+    "finish": "오크와 스파이스, 따뜻한 도수감이 길게 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://static.wixstatic.com/media/12d4f8_f2764ab5337a46bcb00107899d17f7f2~mv2.png/v1/crop/x_0,y_205,w_1229,h_1426/fill/w_692,h_802,al_c,q_90,usm_0.66_1.00_0.01/Barrell%20Whiskey%204.png",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.barrellbourbon.com/whiskey"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "high-west-a-midwinter-nights-dram",
+  "name": "A Midwinter Night's Dram",
+  "subtitle": "Limited Engagement",
+  "category": "Rye",
+  "region": "Utah",
+  "abv": "미확인",
+  "age": "NAS",
+  "flavors": [
+    "Port",
+    "Spice",
+    "Dark Fruit"
+  ],
+  "description": "중단 중앙의 A Midwinter Night's Dram 라벨로 확인되는 High West 한정 라이 위스키입니다. 포트 캐스크 계열의 다크 프루트와 베이킹 스파이스가 핵심입니다.",
+  "notes": {
+    "nose": "자두, 체리, 시나몬, 바닐라, 포트 와인.",
+    "palate": "다크 베리, 라이 스파이스, 초콜릿, 오크.",
+    "finish": "달콤한 와인 캐스크와 스파이스가 길게 이어집니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://highwest.com/cdn/shop/files/HW_COM_PDPBanner-MidwinterNightsDramAct10-750ml_3000x1358_cdbec59e-d58a-42b3-839a-6e2e4301551d_600x600@2x.jpg?v=1664469770",
+  "imageSource": "official",
+  "imageSourceUrl": "https://highwest.com/pages/a-midwinter-nights-dram"
+}

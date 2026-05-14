@@ -1,0 +1,24 @@
+{
+  "id": "makers-mark-bourbon",
+  "name": "Maker's Mark",
+  "subtitle": "Kentucky Straight Bourbon Whisky",
+  "category": "Bourbon",
+  "region": "Kentucky",
+  "abv": "45%",
+  "age": "NAS",
+  "flavors": [
+    "Vanilla",
+    "Wheat",
+    "Caramel"
+  ],
+  "description": "하단 좌측의 Maker's Mark 기본 라벨입니다. 밀을 사용한 부드럽고 달콤한 버번 스타일로 정리했습니다.",
+  "notes": {
+    "nose": "바닐라, 캐러멜, 밀빵, 약한 오크.",
+    "palate": "부드러운 단맛, 토피, 시리얼, 낮은 스파이스.",
+    "finish": "바닐라와 오크가 짧고 깔끔하게 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/66ead7f2cd22c5c14eb0b1fc_Makers-Mark-Bourbon-2024-01.jpg",
+  "imageSource": "review",
+  "imageSourceUrl": "https://www.breakingbourbon.com/review/makers-mark-bourbon"
+}

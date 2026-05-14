@@ -1,0 +1,24 @@
+{
+  "id": "octomore-15",
+  "name": "Octomore 15",
+  "subtitle": "Islay Single Malt Scotch Whisky",
+  "category": "Scotch",
+  "region": "Islay, Scotland",
+  "abv": "미확인",
+  "age": "미확인",
+  "flavors": [
+    "Peat",
+    "Smoke",
+    "Malt"
+  ],
+  "description": "상단 우측의 검은 튜브에서 Octomore와 15 표기가 확인됩니다. 정확한 에디션은 이미지상 제한적이므로 Octomore 15 계열로 기록했습니다.",
+  "notes": {
+    "nose": "강한 피트, 해조류, 시트러스, 몰트 단맛.",
+    "palate": "스모크, 보리 단맛, 후추, 미네랄리티.",
+    "finish": "피트 스모크와 소금기, 오크가 길게 지속됩니다."
+  },
+  "identificationConfidence": "medium",
+  "image": "https://www.bruichladdich.com/cdn/shop/files/Octomore-15-1-Bottle.png?v=1725464716",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.bruichladdich.com/products/octomore-15-1"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "balcones-eclipse-texas-rye",
+  "name": "Balcones Eclipse Texas Rye",
+  "subtitle": "Cask Strength Straight Rye",
+  "category": "Rye",
+  "region": "Texas",
+  "abv": "Cask Strength",
+  "age": "미확인",
+  "flavors": [
+    "Cocoa",
+    "Rye Spice",
+    "Oak"
+  ],
+  "description": "하단 우측의 Balcones Eclipse Texas Rye Cask Strength 라벨이 확인됩니다. 텍사스 라이 특유의 진한 곡물감과 코코아, 스파이스를 중심으로 소개합니다.",
+  "notes": {
+    "nose": "코코아, 라이 브레드, 허브, 구운 오크.",
+    "palate": "다크 초콜릿, 후추, 몰트, 진한 캐스크 스트렝스.",
+    "finish": "드라이한 코코아와 오크 스파이스가 오래 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://www.balconesdistilling.com/assets/images/whiskySlider/balcones_texasrye.jpg",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.balconesdistilling.com/our-whisky/texas-rye"
+}

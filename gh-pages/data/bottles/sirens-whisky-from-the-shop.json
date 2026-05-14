@@ -1,0 +1,24 @@
+{
+  "id": "sirens-whisky-from-the-shop",
+  "name": "Siren's Whisky from the Shop",
+  "subtitle": "Speyside Single Malt",
+  "category": "Scotch",
+  "region": "Speyside, Scotland",
+  "abv": "미확인",
+  "age": "미확인",
+  "flavors": [
+    "Malt",
+    "Orchard Fruit",
+    "Vanilla"
+  ],
+  "description": "중단 우측의 Siren's Whisky from the Shop 라벨과 Speyside Single Malt 표기가 확인됩니다. 애니메이션 라벨 보틀로, 세부 증류소/스펙은 미확인입니다.",
+  "notes": {
+    "nose": "사과, 배, 바닐라, 가벼운 몰트.",
+    "palate": "꿀, 과일, 비스킷, 은은한 오크.",
+    "finish": "부드러운 몰트 단맛과 과실감이 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://thespeysidewhisky.com/collections/shop-bottle"
+}

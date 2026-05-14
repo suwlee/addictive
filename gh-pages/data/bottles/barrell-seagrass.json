@@ -1,0 +1,24 @@
+{
+  "id": "barrell-seagrass",
+  "name": "Barrell Seagrass",
+  "subtitle": "Rye Whiskey",
+  "category": "Rye",
+  "region": "United States",
+  "abv": "Cask Strength",
+  "age": "NAS",
+  "flavors": [
+    "Tropical",
+    "Honey",
+    "Spice"
+  ],
+  "description": "하단 선반의 Barrell Seagrass 라벨이 선명하게 확인됩니다. 럼, 마데이라, 아프리콧 브랜디 캐스크 계열의 열대 과실감으로 알려진 라이 위스키입니다.",
+  "notes": {
+    "nose": "파인애플, 살구, 허니, 민트, 라이 스파이스.",
+    "palate": "열대 과일, 진저, 꿀, 드라이한 허브와 오크.",
+    "finish": "과실 단맛과 라이 스파이스가 산뜻하게 이어집니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://static.wixstatic.com/media/12d4f8_af2c084fb13445c397495763b835c081~mv2.png/v1/crop/x_247,y_0,w_2056,h_3300/fill/w_750,h_1204,al_c,q_90,usm_0.66_1.00_0.01/Barrell%20Seagrass%20Solo%20Shot.png",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.barrellbourbon.com/seagrass"
+}

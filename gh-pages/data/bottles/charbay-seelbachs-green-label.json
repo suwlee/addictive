@@ -1,0 +1,24 @@
+{
+  "id": "charbay-seelbachs-green-label",
+  "name": "Charbay x Seelbach's Green Label",
+  "subtitle": "Whiskey Selection",
+  "category": "American Whiskey",
+  "region": "United States",
+  "abv": "미확인",
+  "age": "미확인",
+  "flavors": [
+    "Herbal",
+    "Oak",
+    "Caramel"
+  ],
+  "description": "상단 선반의 녹색 라벨 Charbay와 Seelbach's 표기로 확인되는 셀렉션 보틀입니다. 라벨 일부가 반사되어 세부 스펙은 미확인입니다.",
+  "notes": {
+    "nose": "허브, 캐러멜, 오크, 은은한 과실.",
+    "palate": "토피, 몰트, 스파이스, 드라이한 오크.",
+    "finish": "허브와 오크 스파이스가 깔끔하게 남습니다."
+  },
+  "identificationConfidence": "medium",
+  "image": "https://seelbachs.com/cdn/shop/files/Charbay_Seelbach_s_Blend_1.png?v=1763576835",
+  "imageSource": "retailer",
+  "imageSourceUrl": "https://seelbachs.com/products/charbay-american-whiskey-private-blend-150-5-proof-selected-by-seelbachs"
+}

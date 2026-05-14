@@ -1,0 +1,24 @@
+{
+  "id": "william-larue-weller",
+  "name": "William Larue Weller",
+  "subtitle": "Kentucky Straight Bourbon Whiskey",
+  "category": "Bourbon",
+  "region": "Kentucky",
+  "abv": "Cask Strength",
+  "age": "NAS",
+  "flavors": [
+    "Cherry",
+    "Caramel",
+    "Oak"
+  ],
+  "description": "Buffalo Trace Antique Collection의 wheated bourbon으로 알려진 William Larue Weller입니다. 이미지에서는 전면 라벨과 병 형태가 확인됩니다.",
+  "notes": {
+    "nose": "체리, 캐러멜, 바닐라, 오래된 오크.",
+    "palate": "진한 브라운 슈거, 다크 프루트, 스파이스, 부드러운 밀감.",
+    "finish": "달콤한 오크와 체리, 따뜻한 캐스크 스트렝스 여운."
+  },
+  "identificationConfidence": "high",
+  "image": "https://cms.buffalotracedistillery.com/wp-content/uploads/2025/11/WILLIAM_LARUE_WELLER_BOTTLE.png",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/"
+}

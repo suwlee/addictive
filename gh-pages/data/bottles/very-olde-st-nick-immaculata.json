@@ -6,12 +6,19 @@
   "region": "Kentucky",
   "abv": "59.05%",
   "age": "15y Base",
-  "image": "assets/bottles/vosn-immaculata.jpeg",
-  "flavors": ["Caramel", "Oak", "Cherry"],
-  "description": "15년급 버번 베이스와 118.1 proof의 캐스크 스트렝스가 만드는 진한 오크, 체리, 브라운 슈거의 밀도가 매력입니다.",
+  "flavors": [
+    "Caramel",
+    "Oak",
+    "Cherry"
+  ],
+  "description": "Very Olde St. Nick의 Immaculata Ancient Cask Bourbon으로 식별됩니다. 15년급 버번 베이스와 118.1 proof의 캐스크 스트렝스가 만드는 진한 오크, 체리, 브라운 슈거의 밀도가 매력입니다.",
   "notes": {
     "nose": "캐러멜, 브라운 슈거, 체리, 오래된 오크, 은은한 레더.",
     "palate": "진한 바닐라와 다크 프루트, 스파이시한 오크, 묵직한 캐스크 스트렝스.",
     "finish": "체리, 달콤한 오크, 향신료와 레더가 길고 드라이하게 남습니다."
-  }
+  },
+  "identificationConfidence": "high",
+  "image": "https://huntsmanheritage.com/cdn/shop/files/BuyVeryOldeSt.NickImmaculataAncientCaskBourbonWhiskeyOnline_1024x1024.jpg?v=1758684132",
+  "imageSource": "retailer",
+  "imageSourceUrl": "https://huntsmanheritage.com/products/very-olde-st-nick-immaculata-ancient-cask-bourbon-whiskey"
 }

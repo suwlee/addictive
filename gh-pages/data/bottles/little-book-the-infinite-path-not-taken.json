@@ -1,0 +1,24 @@
+{
+  "id": "little-book-the-infinite-path-not-taken",
+  "name": "Little Book The Infinite",
+  "subtitle": "Path Not Taken",
+  "category": "Blended Whiskey",
+  "region": "Kentucky",
+  "abv": "미확인",
+  "age": "NAS",
+  "flavors": [
+    "Caramel",
+    "Spice",
+    "Oak"
+  ],
+  "description": "상단의 Little Book The Infinite: Path Not Taken 박스와 병으로 확인되는 블렌디드 위스키입니다. 다양한 원액을 조합한 리치한 단맛과 스파이스를 중심으로 소개합니다.",
+  "notes": {
+    "nose": "캐러멜, 바닐라, 베이킹 스파이스, 구운 오크.",
+    "palate": "달콤한 곡물감, 토피, 시나몬, 묵직한 오크 구조감.",
+    "finish": "스파이스와 오크, 은은한 단맛이 길게 이어집니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/66759a8352cf62eee80a8b17_Little-Book-Chapter-8-Path-Not-Taken-01.jpg",
+  "imageSource": "review",
+  "imageSourceUrl": "https://www.breakingbourbon.com/review/little-book-chapter-8-path-not-taken"
+}

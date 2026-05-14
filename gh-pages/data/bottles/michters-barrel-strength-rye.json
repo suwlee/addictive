@@ -1,0 +1,24 @@
+{
+  "id": "michters-barrel-strength-rye",
+  "name": "Michter's Barrel Strength Rye",
+  "subtitle": "Kentucky Straight Rye",
+  "category": "Rye",
+  "region": "Kentucky",
+  "abv": "Barrel Strength",
+  "age": "NAS",
+  "flavors": [
+    "Toffee",
+    "Rye Spice",
+    "Herbal"
+  ],
+  "description": "중단 우측의 Michter's Barrel Strength Rye 라벨이 확인됩니다. 라이 스파이스와 달콤한 토피, 허브 캐릭터를 중심으로 소개합니다.",
+  "notes": {
+    "nose": "토피, 허브, 바닐라, 라이 브레드.",
+    "palate": "시나몬, 민트, 캐러멜, 오크 스파이스.",
+    "finish": "허브와 후추, 달콤한 오크가 길게 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://michters.com/wp-content/uploads/2025/02/BSR_418x1378100_2025.jpg",
+  "imageSource": "official",
+  "imageSourceUrl": "https://michters.com/us-1-barrel-strength-rye/"
+}

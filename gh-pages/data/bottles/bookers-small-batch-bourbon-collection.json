@@ -1,0 +1,24 @@
+{
+  "id": "bookers-small-batch-bourbon-collection",
+  "name": "Booker's Small Batch Bourbon Collection",
+  "subtitle": "Uncut & Unfiltered",
+  "category": "Bourbon",
+  "region": "Kentucky",
+  "abv": "Cask Strength",
+  "age": "NAS",
+  "flavors": [
+    "Peanut",
+    "Vanilla",
+    "Oak"
+  ],
+  "description": "상단 선반의 Booker's 박스 라벨로 확인됩니다. Booker's 특유의 언컷·언필터드 스타일을 기준으로 진한 바닐라, 견과, 오크 중심의 캐릭터로 정리했습니다.",
+  "notes": {
+    "nose": "볶은 땅콩, 바닐라, 캐러멜, 새 오크.",
+    "palate": "묵직한 바디와 브라운 슈거, 토피, 후추 같은 스파이스.",
+    "finish": "따뜻한 알코올감과 오크, 견과류 여운이 길게 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://images.ctfassets.net/qbvb79w96uc8/2EXVxzApuJNrNL7TnetXyx/47207e9d2563d6a63415dee7110f4d64/Bookers.jpg",
+  "imageSource": "retailer",
+  "imageSourceUrl": "https://www.reservebar.com/collections/bookers-bourbon"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jack-daniels-single-barrel-rye",
+  "name": "Jack Daniel's Single Barrel Rye",
+  "subtitle": "Single Barrel Rye",
+  "category": "Rye",
+  "region": "Tennessee",
+  "abv": "미확인",
+  "age": "NAS",
+  "flavors": [
+    "Rye Spice",
+    "Banana",
+    "Oak"
+  ],
+  "description": "중단 좌측의 Jack Daniel's Single Barrel Rye 라벨이 확인됩니다. 테네시 라이 특유의 달콤한 과실감과 라이 스파이스를 중심으로 정리했습니다.",
+  "notes": {
+    "nose": "바나나, 바닐라, 라이 허브, 카라멜.",
+    "palate": "달콤한 오크, 후추, 곡물, 은은한 과실.",
+    "finish": "라이 스파이스와 바닐라가 깔끔하게 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://live-jd24-backend.pantheonsite.io/sites/default/files/2026-04/JD%20SB%20Rye%20SE%20Bottle.png",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.jackdaniels.com/whiskey/single-barrel-rye"
+}

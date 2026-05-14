@@ -1,0 +1,24 @@
+{
+  "id": "rossville-union-barrel-proof-rye",
+  "name": "Rossville Union Barrel Proof Rye",
+  "subtitle": "Straight Rye Whiskey",
+  "category": "Rye",
+  "region": "Indiana",
+  "abv": "58.6%",
+  "age": "미확인",
+  "flavors": [
+    "Mint",
+    "Spice",
+    "Caramel"
+  ],
+  "description": "하단 선반의 Rossville Union Straight Rye Whiskey Barrel Proof 라벨이 확인됩니다. 라벨 하단에서 117.2 proof로 보이는 표기가 확인됩니다.",
+  "notes": {
+    "nose": "민트, 딜, 캐러멜, 오렌지 껍질.",
+    "palate": "라이 스파이스, 바닐라, 허브, 진한 오크.",
+    "finish": "후추와 민트, 캐스크 스트렝스 여운이 길게 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://www.rossvilleunion.com/wp-content/themes/rossvilleunion/images/bottle-barrel-proof.png",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.rossvilleunion.com/"
+}

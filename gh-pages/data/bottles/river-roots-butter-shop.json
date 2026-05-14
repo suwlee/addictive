@@ -1,0 +1,24 @@
+{
+  "id": "river-roots-butter-shop",
+  "name": "River Roots Butter Shop",
+  "subtitle": "American Malt Whiskey",
+  "category": "American Malt",
+  "region": "United States",
+  "abv": "미확인",
+  "age": "미확인",
+  "flavors": [
+    "Butter",
+    "Vanilla",
+    "Toast"
+  ],
+  "description": "상단 중앙의 River Roots 라벨 중 Butter Shop 문구가 보이는 American Malt Whiskey 후보입니다. 라벨 일부가 흐리므로 세부 스펙은 미확인으로 두었습니다.",
+  "notes": {
+    "nose": "버터스카치, 바닐라, 구운 빵, 가벼운 오크.",
+    "palate": "크리미한 단맛, 토피, 몰트, 약한 시나몬.",
+    "finish": "달콤한 곡물과 토스트 향이 부드럽게 이어집니다."
+  },
+  "identificationConfidence": "medium",
+  "image": "https://seelbachshub.shop/wp-content/uploads/2025/09/RiverRootsAmericanMaltWhiskey_583149.15proof-SelectedbySeelbach_s.jpg",
+  "imageSource": "retailer",
+  "imageSourceUrl": "https://seelbachs.com/collections/river-roots-barrel-company"
+}

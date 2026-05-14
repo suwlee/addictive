@@ -1,0 +1,24 @@
+{
+  "id": "river-roots-seelbachs-american-malt",
+  "name": "River Roots x Seelbach's American Malt",
+  "subtitle": "American Malt Whiskey",
+  "category": "American Malt",
+  "region": "United States",
+  "abv": "미확인",
+  "age": "미확인",
+  "flavors": [
+    "Malt",
+    "Honey",
+    "Oak"
+  ],
+  "description": "상단 선반의 River Roots와 Seelbach's 표기가 보이는 American Malt Whiskey입니다. 라벨 세부 배치상 협업/셀렉션 보틀로 보이며, 몰트의 고소함과 오크 캐릭터를 중심으로 정리했습니다.",
+  "notes": {
+    "nose": "꿀, 몰트, 바닐라, 은은한 과실향.",
+    "palate": "고소한 곡물감, 캐러멜, 말린 과일, 부드러운 오크.",
+    "finish": "몰트 단맛과 스파이스가 깔끔하게 남습니다."
+  },
+  "identificationConfidence": "medium",
+  "image": "https://seelbachshub.shop/wp-content/uploads/2025/09/RiverRootsAmericanMaltWhiskey_583149.15proof-SelectedbySeelbach_s.jpg",
+  "imageSource": "retailer",
+  "imageSourceUrl": "https://seelbachshub.shop/product/river-roots-american-malt-whiskey-583-149-15-proof-selected-by-seelbachs/"
+}

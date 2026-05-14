@@ -1,0 +1,24 @@
+{
+  "id": "anime-label-highland-single-malt",
+  "name": "Anime Label Highland Single Malt",
+  "subtitle": "Highland Single Malt",
+  "category": "Scotch",
+  "region": "Highland, Scotland",
+  "abv": "미확인",
+  "age": "미확인",
+  "flavors": [
+    "Malt",
+    "Honey",
+    "Fruit"
+  ],
+  "description": "하단 우측의 애니메이션 라벨과 Highland Single Malt 표기가 확인되는 보틀입니다. 브랜드/독립병입자명은 이미지에서 충분히 읽히지 않아 임시 명칭으로 기록했습니다.",
+  "notes": {
+    "nose": "꿀, 사과, 몰트, 가벼운 바닐라.",
+    "palate": "과일, 비스킷, 허브, 부드러운 오크.",
+    "finish": "몰트 단맛과 가벼운 스파이스가 남습니다."
+  },
+  "identificationConfidence": "low",
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": ""
+}

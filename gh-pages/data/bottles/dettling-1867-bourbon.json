@@ -1,0 +1,24 @@
+{
+  "id": "dettling-1867-bourbon",
+  "name": "Dettling 1867 Bourbon",
+  "subtitle": "Bourbon",
+  "category": "Bourbon",
+  "region": "United States",
+  "abv": "미확인",
+  "age": "미확인",
+  "flavors": [
+    "Caramel",
+    "Corn",
+    "Oak"
+  ],
+  "description": "중단 선반의 금색/검은 라벨에서 Dettling 1867 Bourbon으로 읽히는 보틀입니다. 라벨 일부가 가려져 있어 식별 신뢰도는 중간으로 기록했습니다.",
+  "notes": {
+    "nose": "캐러멜, 옥수수 단맛, 바닐라, 약한 오크.",
+    "palate": "토피, 곡물, 시나몬, 부드러운 오크.",
+    "finish": "달콤한 바닐라와 가벼운 스파이스가 남습니다."
+  },
+  "identificationConfidence": "medium",
+  "image": "https://images.squarespace-cdn.com/content/v1/5cebee5ffdcda30001c772ea/d655c59a-b003-4e54-9281-e54e1247f861/DSC02995-Enhanced-NR.jpg",
+  "imageSource": "official",
+  "imageSourceUrl": "https://dettling1867.com/home"
+}

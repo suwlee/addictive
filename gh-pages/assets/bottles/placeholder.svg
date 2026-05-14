@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-label="이미지 준비중">
+  <rect width="600" height="900" fill="#070e1d"/>
+  <rect x="180" y="70" width="240" height="760" rx="90" fill="#191f2f" stroke="#554336" stroke-width="8"/>
+  <rect x="240" y="24" width="120" height="110" rx="24" fill="#232a3a" stroke="#554336" stroke-width="8"/>
+  <rect x="205" y="380" width="190" height="210" rx="18" fill="#2e3545" stroke="#a38c7c" stroke-width="5"/>
+  <text x="300" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffb77d">IMAGE</text>
+  <text x="300" y="512" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#dbc2b0">준비중</text>
+</svg>

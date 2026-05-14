@@ -1,0 +1,24 @@
+{
+  "id": "charbay-seelbachs-blue-label",
+  "name": "Charbay x Seelbach's Blue Label",
+  "subtitle": "Whiskey Selection",
+  "category": "American Whiskey",
+  "region": "United States",
+  "abv": "미확인",
+  "age": "미확인",
+  "flavors": [
+    "Fruit",
+    "Malt",
+    "Spice"
+  ],
+  "description": "상단 선반의 파란 라벨 Charbay와 Seelbach's 표기로 확인되는 셀렉션 보틀입니다. 세부 배치명은 이미지에서 완전히 읽히지 않아 보수적으로 기록했습니다.",
+  "notes": {
+    "nose": "과실, 몰트, 꿀, 가벼운 허브.",
+    "palate": "달콤한 곡물감, 말린 과일, 오크, 후추.",
+    "finish": "스파이스와 몰트 단맛이 중간 길이로 이어집니다."
+  },
+  "identificationConfidence": "medium",
+  "image": "https://seelbachs.com/cdn/shop/files/Charbay_Seelbach_s_Blend_1.png?v=1763576835",
+  "imageSource": "retailer",
+  "imageSourceUrl": "https://seelbachs.com/products/charbay-american-whiskey-private-blend-150-5-proof-selected-by-seelbachs"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "river-roots-obedire-veritas",
+  "name": "River Roots Obedire Veritas",
+  "subtitle": "American Malt Whiskey",
+  "category": "American Malt",
+  "region": "United States",
+  "abv": "미확인",
+  "age": "미확인",
+  "flavors": [
+    "Malt",
+    "Cocoa",
+    "Oak"
+  ],
+  "description": "상단 선반의 River Roots Obedire Veritas 라벨로 확인되는 American Malt Whiskey입니다. 정확한 배치/도수는 이미지에서 확인이 어려워 미확인으로 기록했습니다.",
+  "notes": {
+    "nose": "몰트, 코코아, 말린 과일, 은은한 허브.",
+    "palate": "다크 초콜릿, 캐러멜, 고소한 곡물, 오크.",
+    "finish": "오크와 코코아 쌉싸름함이 드라이하게 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://seelbachshub.shop/wp-content/uploads/2025/09/RiverRootsAmericanMaltWhiskey_583149.15proof-SelectedbySeelbach_s.jpg",
+  "imageSource": "retailer",
+  "imageSourceUrl": "https://seelbachs.com/collections/river-roots-barrel-company"
+}

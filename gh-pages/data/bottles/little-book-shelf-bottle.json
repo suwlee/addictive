@@ -1,0 +1,24 @@
+{
+  "id": "little-book-shelf-bottle",
+  "name": "Little Book",
+  "subtitle": "Limited Release Whiskey",
+  "category": "Blended Whiskey",
+  "region": "Kentucky",
+  "abv": "미확인",
+  "age": "NAS",
+  "flavors": [
+    "Caramel",
+    "Grain",
+    "Spice"
+  ],
+  "description": "중단 선반의 Little Book 보틀입니다. 행택이 일부 라벨을 가리고 있어 챕터/배치명은 미확인으로 기록했습니다.",
+  "notes": {
+    "nose": "캐러멜, 곡물 단맛, 바닐라, 오크.",
+    "palate": "토피, 스파이스, 구운 곡물, 진한 바디.",
+    "finish": "따뜻한 오크와 스파이스가 길게 남습니다."
+  },
+  "identificationConfidence": "medium",
+  "image": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/5b193389941ffa7fb323d807_Little-Book-Bottle-04a.jpg",
+  "imageSource": "review",
+  "imageSourceUrl": "https://www.breakingbourbon.com/review/little-book-chapter-8-path-not-taken"
+}

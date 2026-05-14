@@ -1,0 +1,24 @@
+{
+  "id": "francois-peyrot-lot-70",
+  "name": "François Peyrot Lot 70",
+  "subtitle": "Grande Champagne Cognac",
+  "category": "Cognac",
+  "region": "Cognac, France",
+  "abv": "미확인",
+  "age": "Lot 70",
+  "flavors": [
+    "Dried Fruit",
+    "Rancio",
+    "Oak"
+  ],
+  "description": "상단 선반의 목재 케이스 라벨로 확인되는 François Peyrot Lot 70 코냑입니다. 오래 숙성한 그랑 샹파뉴 계열에서 기대되는 말린 과일, 란시오, 향신료의 깊이를 중심으로 소개합니다.",
+  "notes": {
+    "nose": "건포도, 살구, 오래된 오크, 은은한 꽃향과 란시오.",
+    "palate": "말린 과일과 꿀, 견과류, 부드러운 스파이스가 둥글게 이어집니다.",
+    "finish": "오크, 가죽, 달콤한 과실감이 길고 차분하게 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://cognac-peyrot.com/"
+}

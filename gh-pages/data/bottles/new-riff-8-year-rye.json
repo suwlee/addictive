@@ -1,0 +1,24 @@
+{
+  "id": "new-riff-8-year-rye",
+  "name": "New Riff 8 Year Rye",
+  "subtitle": "Kentucky Straight Rye Whiskey",
+  "category": "Rye",
+  "region": "Kentucky",
+  "abv": "50%",
+  "age": "8 Years",
+  "flavors": [
+    "Mint",
+    "Rye Spice",
+    "Oak"
+  ],
+  "description": "중단 중앙의 New Riff Kentucky Straight Rye Whiskey 8 Years 라벨이 선명하게 확인됩니다. 100 proof 표기도 확인 가능합니다.",
+  "notes": {
+    "nose": "민트, 딜, 바닐라, 라이 브레드.",
+    "palate": "후추, 허브, 캐러멜, 고소한 오크.",
+    "finish": "라이 스파이스와 민트, 드라이한 오크가 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://www.newriffdistilling.com/wp-content/uploads/2025/08/NRD_8-YEAR_RYE_HERO_TRANSPARENT-scaled.png",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.newriffdistilling.com/spirits/8-year-old-kentucky-straight-rye-whiskey/"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "found-north-peregrine-5-year",
+  "name": "Found North Peregrine 5 Year",
+  "subtitle": "Cask Strength Whisky",
+  "category": "Canadian Whisky",
+  "region": "Canada",
+  "abv": "미확인",
+  "age": "5 Years",
+  "flavors": [
+    "Maple",
+    "Rye Spice",
+    "Oak"
+  ],
+  "description": "중단 좌측의 Found North Peregrine 5 Year 라벨로 확인됩니다. 캐스크 스트렝스 캐나다 위스키 계열의 진한 단맛과 라이 스파이스를 중심으로 소개합니다.",
+  "notes": {
+    "nose": "메이플, 말린 과일, 라이 허브, 바닐라.",
+    "palate": "진한 캐러멜, 곡물 단맛, 후추, 오크.",
+    "finish": "스파이스와 메이플 단맛이 길게 남습니다."
+  },
+  "identificationConfidence": "high",
+  "image": "https://cdn.prod.website-files.com/600cad2675a23eb270ccb572/65675afdeb5b7ac8e47aeb04_Peregrine%20Ecomm%20Transparent%20copy.png",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.foundnorthwhisky.com/peregrine"
+}

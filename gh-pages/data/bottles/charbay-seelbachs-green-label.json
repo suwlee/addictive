@@ -17,8 +17,22 @@
     "palate": "토피, 몰트, 스파이스, 드라이한 오크.",
     "finish": "허브와 오크 스파이스가 깔끔하게 남습니다."
   },
-  "identificationConfidence": "medium",
+  "identificationConfidence": 0.62,
   "image": "https://seelbachs.com/cdn/shop/files/Charbay_Seelbach_s_Blend_1.png?v=1763576835",
   "imageSource": "retailer",
-  "imageSourceUrl": "https://seelbachs.com/products/charbay-american-whiskey-private-blend-150-5-proof-selected-by-seelbachs"
+  "imageSourceUrl": "https://seelbachs.com/products/charbay-american-whiskey-private-blend-150-5-proof-selected-by-seelbachs",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.62,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.88,
+    "productConfidence": 0.62,
+    "variantConfidence": 0.38,
+    "imageMatchConfidence": 0.45,
+    "evidence": "Charbay와 Seelbach's 단서는 있으나 현재 연결 이미지는 같은 라인의 대체 이미지입니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "Charbay x Seelbach's Green Label, 익숙한 듯 낯선 캐스크의 매력을 한 잔에."
 }

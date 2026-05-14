@@ -17,8 +17,22 @@
     "palate": "고소한 곡물감, 캐러멜, 말린 과일, 부드러운 오크.",
     "finish": "몰트 단맛과 스파이스가 깔끔하게 남습니다."
   },
-  "identificationConfidence": "medium",
+  "identificationConfidence": 0.7,
   "image": "https://seelbachshub.shop/wp-content/uploads/2025/09/RiverRootsAmericanMaltWhiskey_583149.15proof-SelectedbySeelbach_s.jpg",
   "imageSource": "retailer",
-  "imageSourceUrl": "https://seelbachshub.shop/product/river-roots-american-malt-whiskey-583-149-15-proof-selected-by-seelbachs/"
+  "imageSourceUrl": "https://seelbachshub.shop/product/river-roots-american-malt-whiskey-583-149-15-proof-selected-by-seelbachs/",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.7,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.9,
+    "productConfidence": 0.7,
+    "variantConfidence": 0.48,
+    "imageMatchConfidence": 0.6,
+    "evidence": "River Roots와 Seelbach's 단서는 확인되나 세부 배치/라벨 매칭은 후보 수준입니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "River Roots x Seelbach's American Malt, 몰트의 고소함으로 시작하는 새로운 위스키 무드."
 }

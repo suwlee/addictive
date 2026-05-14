@@ -17,8 +17,22 @@
     "palate": "달콤한 곡물감, 말린 과일, 오크, 후추.",
     "finish": "스파이스와 몰트 단맛이 중간 길이로 이어집니다."
   },
-  "identificationConfidence": "medium",
+  "identificationConfidence": 0.68,
   "image": "https://seelbachs.com/cdn/shop/files/Charbay_Seelbach_s_Blend_1.png?v=1763576835",
   "imageSource": "retailer",
-  "imageSourceUrl": "https://seelbachs.com/products/charbay-american-whiskey-private-blend-150-5-proof-selected-by-seelbachs"
+  "imageSourceUrl": "https://seelbachs.com/products/charbay-american-whiskey-private-blend-150-5-proof-selected-by-seelbachs",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.68,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.88,
+    "productConfidence": 0.68,
+    "variantConfidence": 0.45,
+    "imageMatchConfidence": 0.6,
+    "evidence": "Charbay와 Seelbach's 단서는 분명하나 라벨 색상/세부 배치 매칭은 후보 수준입니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "Charbay x Seelbach's Blue Label, 익숙한 듯 낯선 캐스크의 매력을 한 잔에."
 }

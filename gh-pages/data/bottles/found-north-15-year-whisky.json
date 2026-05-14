@@ -1,0 +1,38 @@
+{
+  "id": "found-north-15-year-whisky",
+  "name": "Found North 15 Year Whisky",
+  "subtitle": "Cask Strength Whisky",
+  "category": "Canadian Whisky",
+  "region": "Canada",
+  "abv": "미확인",
+  "age": "15 Years",
+  "flavors": [
+    "Maple",
+    "Rye Spice",
+    "Oak"
+  ],
+  "description": "Found North 15 Year Whisky는 캐스크 스트렝스 캐나다 위스키의 진한 단맛과 라이 스파이스를 기대하게 하는 보틀입니다. 메이플, 말린 과일, 오크의 농축감을 중심으로 소개합니다.",
+  "notes": {
+    "nose": "메이플, 말린 과일, 라이 허브, 바닐라.",
+    "palate": "진한 캐러멜, 곡물 단맛, 후추, 오크.",
+    "finish": "스파이스와 메이플 단맛이 길게 남습니다."
+  },
+  "identificationConfidence": 0.62,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.foundnorthwhisky.com/",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.62,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.92,
+    "productConfidence": 0.55,
+    "variantConfidence": 0.75,
+    "imageMatchConfidence": 0.0,
+    "evidence": "원본에서 Found North와 15 Years 표기는 비교적 잘 보이나 세부 릴리스명과 제품 이미지는 확정하지 않았습니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "Found North 15 Year Whisky, 차갑게 빛나는 단맛과 스파이스의 균형."
+}

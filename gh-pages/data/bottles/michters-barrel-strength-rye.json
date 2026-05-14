@@ -17,8 +17,20 @@
     "palate": "시나몬, 민트, 캐러멜, 오크 스파이스.",
     "finish": "허브와 후추, 달콤한 오크가 길게 남습니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.88,
   "image": "https://michters.com/wp-content/uploads/2025/02/BSR_418x1378100_2025.jpg",
   "imageSource": "official",
-  "imageSourceUrl": "https://michters.com/us-1-barrel-strength-rye/"
+  "imageSourceUrl": "https://michters.com/us-1-barrel-strength-rye/",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.88,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.95,
+    "productConfidence": 0.9,
+    "variantConfidence": 0.78,
+    "imageMatchConfidence": 0.82,
+    "evidence": "제품명과 공식 이미지 매칭 신뢰도가 높습니다.",
+    "issues": []
+  },
+  "hookMessage": "Michter's Barrel Strength Rye, 스파이스가 살아나는 순간 분위기는 더 선명해집니다."
 }

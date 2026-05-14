@@ -146,6 +146,8 @@
 </a>
 </template>
 <script>
+const MIN_CONFIDENCE = 0.5;
+
 const state = {
   bottles: [],
   selectedCategory: 'All'
@@ -224,7 +226,8 @@ async function loadBottles() {
   try {
     const response = await fetch('data/bottles.index.json');
     if (!response.ok) throw new Error(`보틀 데이터를 불러오지 못했습니다: ${response.status}`);
-    state.bottles = await response.json();
+    const bottles = await response.json();
+    state.bottles = bottles.filter((bottle) => (bottle.identificationConfidence ?? 0) >= MIN_CONFIDENCE);
     renderCategories();
     renderBottles();
   } catch (error) {

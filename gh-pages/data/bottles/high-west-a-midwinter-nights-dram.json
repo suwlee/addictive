@@ -17,8 +17,20 @@
     "palate": "다크 베리, 라이 스파이스, 초콜릿, 오크.",
     "finish": "달콤한 와인 캐스크와 스파이스가 길게 이어집니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.89,
   "image": "https://highwest.com/cdn/shop/files/HW_COM_PDPBanner-MidwinterNightsDramAct10-750ml_3000x1358_cdbec59e-d58a-42b3-839a-6e2e4301551d_600x600@2x.jpg?v=1664469770",
   "imageSource": "official",
-  "imageSourceUrl": "https://highwest.com/pages/a-midwinter-nights-dram"
+  "imageSourceUrl": "https://highwest.com/pages/a-midwinter-nights-dram",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.89,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.95,
+    "productConfidence": 0.92,
+    "variantConfidence": 0.78,
+    "imageMatchConfidence": 0.82,
+    "evidence": "제품명과 공식 이미지 매칭 신뢰도가 높습니다.",
+    "issues": []
+  },
+  "hookMessage": "A Midwinter Night's Dram, 스파이스가 살아나는 순간 분위기는 더 선명해집니다."
 }

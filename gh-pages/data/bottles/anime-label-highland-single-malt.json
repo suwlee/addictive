@@ -17,8 +17,22 @@
     "palate": "과일, 비스킷, 허브, 부드러운 오크.",
     "finish": "몰트 단맛과 가벼운 스파이스가 남습니다."
   },
-  "identificationConfidence": "low",
+  "identificationConfidence": 0.19,
   "image": "assets/bottles/placeholder.svg",
   "imageSource": "placeholder",
-  "imageSourceUrl": ""
+  "imageSourceUrl": "",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.19,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.3,
+    "productConfidence": 0.22,
+    "variantConfidence": 0.1,
+    "imageMatchConfidence": 0.0,
+    "evidence": "브랜드와 세부 제품명 단서가 부족해 공개 노출에는 부적합합니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "Anime Label Highland Single Malt, 잔 안에 담긴 스모크와 몰트의 긴 여운."
 }

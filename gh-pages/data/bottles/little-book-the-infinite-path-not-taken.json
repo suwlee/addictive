@@ -17,8 +17,22 @@
     "palate": "달콤한 곡물감, 토피, 시나몬, 묵직한 오크 구조감.",
     "finish": "스파이스와 오크, 은은한 단맛이 길게 이어집니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.83,
   "image": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/66759a8352cf62eee80a8b17_Little-Book-Chapter-8-Path-Not-Taken-01.jpg",
   "imageSource": "review",
-  "imageSourceUrl": "https://www.breakingbourbon.com/review/little-book-chapter-8-path-not-taken"
+  "imageSourceUrl": "https://www.breakingbourbon.com/review/little-book-chapter-8-path-not-taken",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.83,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.95,
+    "productConfidence": 0.88,
+    "variantConfidence": 0.72,
+    "imageMatchConfidence": 0.65,
+    "evidence": "Little Book 및 Path Not Taken 단서는 강하지만 이미지 출처가 리뷰 페이지입니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "Little Book The Infinite, 여러 원액이 만든 레이어를 천천히 즐겨보세요."
 }

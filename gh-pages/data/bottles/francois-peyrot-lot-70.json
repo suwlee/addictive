@@ -17,8 +17,22 @@
     "palate": "말린 과일과 꿀, 견과류, 부드러운 스파이스가 둥글게 이어집니다.",
     "finish": "오크, 가죽, 달콤한 과실감이 길고 차분하게 남습니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.67,
   "image": "assets/bottles/placeholder.svg",
   "imageSource": "placeholder",
-  "imageSourceUrl": "https://cognac-peyrot.com/"
+  "imageSourceUrl": "https://cognac-peyrot.com/",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.67,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.85,
+    "productConfidence": 0.78,
+    "variantConfidence": 0.72,
+    "imageMatchConfidence": 0.0,
+    "evidence": "목재 케이스의 브랜드/lot 표기는 비교적 분명하나, 제품 이미지가 없어 placeholder를 사용합니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "François Peyrot Lot 70, 천천히 머무는 밤을 위한 우아한 선택."
 }

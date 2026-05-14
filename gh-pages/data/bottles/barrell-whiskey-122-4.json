@@ -17,8 +17,22 @@
     "palate": "진한 캐러멜, 향신료, 다크 허니, 강한 구조감.",
     "finish": "오크와 스파이스, 따뜻한 도수감이 길게 남습니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.8,
   "image": "https://static.wixstatic.com/media/12d4f8_f2764ab5337a46bcb00107899d17f7f2~mv2.png/v1/crop/x_0,y_205,w_1229,h_1426/fill/w_692,h_802,al_c,q_90,usm_0.66_1.00_0.01/Barrell%20Whiskey%204.png",
   "imageSource": "official",
-  "imageSourceUrl": "https://www.barrellbourbon.com/whiskey"
+  "imageSourceUrl": "https://www.barrellbourbon.com/whiskey",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.8,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.94,
+    "productConfidence": 0.82,
+    "variantConfidence": 0.62,
+    "imageMatchConfidence": 0.7,
+    "evidence": "Barrell Whiskey 단서는 강하지만 122.4 proof 세부 배치와 이미지의 완전 일치는 추가 확인이 필요합니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "Barrell Whiskey 122.4 Proof, 익숙한 듯 낯선 캐스크의 매력을 한 잔에."
 }

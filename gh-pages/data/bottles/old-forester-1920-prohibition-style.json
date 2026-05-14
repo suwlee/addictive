@@ -17,8 +17,20 @@
     "palate": "브라운 슈거, 코코아, 스파이스, 진한 바디.",
     "finish": "체리와 오크, 따뜻한 도수감이 길게 남습니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.94,
   "image": "https://www.oldforester.com/wp-content/uploads/2019/06/Old-Forester-1920-750ml-New-Label_TransparetnBG-1-copy.png",
   "imageSource": "official",
-  "imageSourceUrl": "https://www.oldforester.com/products/old-forester-1920-style-prohibition-whisky/"
+  "imageSourceUrl": "https://www.oldforester.com/products/old-forester-1920-style-prohibition-whisky/",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.94,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.98,
+    "productConfidence": 0.96,
+    "variantConfidence": 0.9,
+    "imageMatchConfidence": 0.9,
+    "evidence": "제품명과 공식 이미지 매칭 신뢰도가 높습니다.",
+    "issues": []
+  },
+  "hookMessage": "Old Forester 1920, 오늘 밤을 더 깊고 달콤하게 만드는 한 잔."
 }

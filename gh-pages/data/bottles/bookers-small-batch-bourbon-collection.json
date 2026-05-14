@@ -17,8 +17,22 @@
     "palate": "묵직한 바디와 브라운 슈거, 토피, 후추 같은 스파이스.",
     "finish": "따뜻한 알코올감과 오크, 견과류 여운이 길게 남습니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.82,
   "image": "https://images.ctfassets.net/qbvb79w96uc8/2EXVxzApuJNrNL7TnetXyx/47207e9d2563d6a63415dee7110f4d64/Bookers.jpg",
   "imageSource": "retailer",
-  "imageSourceUrl": "https://www.reservebar.com/collections/bookers-bourbon"
+  "imageSourceUrl": "https://www.reservebar.com/collections/bookers-bourbon",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.82,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.95,
+    "productConfidence": 0.86,
+    "variantConfidence": 0.62,
+    "imageMatchConfidence": 0.72,
+    "evidence": "Booker's 브랜드와 박스는 선명하나 세부 배치/컬렉션 정보는 제한적입니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "Booker's Small Batch Bourbon Collection, 오늘 밤을 더 깊고 달콤하게 만드는 한 잔."
 }

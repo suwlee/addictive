@@ -17,8 +17,20 @@
     "palate": "달콤한 오크, 후추, 곡물, 은은한 과실.",
     "finish": "라이 스파이스와 바닐라가 깔끔하게 남습니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.89,
   "image": "https://live-jd24-backend.pantheonsite.io/sites/default/files/2026-04/JD%20SB%20Rye%20SE%20Bottle.png",
   "imageSource": "official",
-  "imageSourceUrl": "https://www.jackdaniels.com/whiskey/single-barrel-rye"
+  "imageSourceUrl": "https://www.jackdaniels.com/whiskey/single-barrel-rye",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.89,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.95,
+    "productConfidence": 0.92,
+    "variantConfidence": 0.78,
+    "imageMatchConfidence": 0.86,
+    "evidence": "제품명과 공식 이미지 매칭 신뢰도가 높습니다.",
+    "issues": []
+  },
+  "hookMessage": "Jack Daniel's Single Barrel Rye, 스파이스가 살아나는 순간 분위기는 더 선명해집니다."
 }

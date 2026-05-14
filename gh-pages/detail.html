@@ -94,7 +94,7 @@
 </a>
 </div>
 </header>
-<main id="content" class="relative pb-16 hidden">
+<main id="content" class="relative pb-32 hidden">
 <div class="relative h-[574px] w-full overflow-hidden flex items-center justify-center bg-surface-container-lowest">
 <div class="absolute inset-0 z-0 opacity-40 blur-3xl scale-110">
 <div class="absolute top-1/4 left-1/4 w-64 h-64 bg-primary rounded-full filter blur-[100px]"></div>
@@ -153,21 +153,42 @@
 <p id="note-finish" class="font-body-md text-body-md text-on-surface"></p>
 </div>
 </div>
+<div class="mt-stack-lg rounded-xl p-stack-lg border border-primary/25 bg-gradient-to-br from-primary-container/40 via-surface-container-high to-surface-container relative overflow-hidden">
+<div class="absolute -right-8 -bottom-8 w-36 h-36 rounded-full bg-primary/10 blur-2xl"></div>
+<p class="font-label-md text-label-md text-primary uppercase tracking-[0.25em] mb-unit">Tonight's Pour</p>
+<p id="hook-message" class="font-headline-sm text-headline-sm text-on-surface relative z-10"></p>
+</div>
 </section>
 </div>
 </main>
 <div id="status" class="min-h-screen flex items-center justify-center px-container-margin text-center text-on-surface-variant font-body-md">보틀 정보를 불러오는 중입니다.</div>
+<div id="share-bar" class="fixed bottom-0 left-0 w-full z-[60] bg-surface/90 dark:bg-surface/90 backdrop-blur-xl px-container-margin pb-stack-lg pt-stack-md border-t border-white/5 hidden">
+<button id="share-button" class="w-full bg-primary text-on-primary font-label-lg text-label-lg py-stack-md rounded-xl shadow-lg active:scale-95 transition-all uppercase tracking-widest flex items-center justify-center gap-stack-sm">
+<span class="material-symbols-outlined">share</span>
+<span id="share-label">Share</span>
+</button>
+</div>
 <script>
+const MIN_CONFIDENCE = 0.5;
 const params = new URLSearchParams(location.search);
 const selectedId = params.get('id');
 const content = document.querySelector('#content');
 const status = document.querySelector('#status');
+const shareBar = document.querySelector('#share-bar');
+const shareButton = document.querySelector('#share-button');
+const shareLabel = document.querySelector('#share-label');
+let currentBottle = null;
 
 function setText(selector, value) {
   document.querySelector(selector).textContent = value || '-';
 }
 
+function getConfidence(bottle) {
+  return bottle.identification?.confidence ?? bottle.identificationConfidence ?? 0;
+}
+
 function renderBottle(bottle) {
+  currentBottle = bottle;
   document.title = `${bottle.name} | SPEAKEASY`;
   const image = document.querySelector('#bottle-image');
   image.src = bottle.image;
@@ -182,9 +203,11 @@ function renderBottle(bottle) {
   setText('#note-nose', bottle.notes?.nose);
   setText('#note-palate', bottle.notes?.palate);
   setText('#note-finish', bottle.notes?.finish);
+  setText('#hook-message', bottle.hookMessage || `${bottle.name}, 오늘의 메뉴를 오래 기억하게 할 한 잔.`);
 
   status.classList.add('hidden');
   content.classList.remove('hidden');
+  shareBar.classList.remove('hidden');
 }
 
 async function resolveBottleId() {
@@ -193,7 +216,7 @@ async function resolveBottleId() {
   const response = await fetch('data/bottles.index.json');
   if (!response.ok) throw new Error(`보틀 목록을 불러오지 못했습니다: ${response.status}`);
   const bottles = await response.json();
-  return bottles[0]?.id;
+  return bottles.find((bottle) => (bottle.identificationConfidence ?? 0) >= MIN_CONFIDENCE)?.id;
 }
 
 async function loadBottle() {
@@ -204,6 +227,7 @@ async function loadBottle() {
     const response = await fetch(`data/bottles/${encodeURIComponent(bottleId)}.json`);
     if (!response.ok) throw new Error(`보틀 상세 데이터를 불러오지 못했습니다: ${response.status}`);
     const bottle = await response.json();
+    if (getConfidence(bottle) < MIN_CONFIDENCE) throw new Error('검수 기준 미달 보틀입니다.');
     renderBottle(bottle);
   } catch (error) {
     console.error(error);
@@ -211,6 +235,32 @@ async function loadBottle() {
   }
 }
 
+async function shareBottle() {
+  if (!currentBottle) return;
+
+  const shareData = {
+    title: `${currentBottle.name} | SPEAKEASY`,
+    text: currentBottle.hookMessage || currentBottle.description || currentBottle.name,
+    url: location.href,
+  };
+
+  try {
+    if (navigator.share) {
+      await navigator.share(shareData);
+      return;
+    }
+
+    await navigator.clipboard.writeText(shareData.url);
+    shareLabel.textContent = 'Copied';
+    setTimeout(() => {
+      shareLabel.textContent = 'Share';
+    }, 1600);
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+shareButton.addEventListener('click', shareBottle);
 loadBottle();
 </script>
 </body></html>

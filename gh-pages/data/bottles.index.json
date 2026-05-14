@@ -11,7 +11,7 @@
       "Rancio",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.67,
     "imageSource": "placeholder",
     "imageSourceUrl": "https://cognac-peyrot.com/"
   },
@@ -27,7 +27,7 @@
       "Vanilla",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.82,
     "imageSource": "retailer",
     "imageSourceUrl": "https://www.reservebar.com/collections/bookers-bourbon"
   },
@@ -43,7 +43,7 @@
       "Spice",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.83,
     "imageSource": "review",
     "imageSourceUrl": "https://www.breakingbourbon.com/review/little-book-chapter-8-path-not-taken"
   },
@@ -59,7 +59,7 @@
       "Honey",
       "Oak"
     ],
-    "identificationConfidence": "medium",
+    "identificationConfidence": 0.7,
     "imageSource": "retailer",
     "imageSourceUrl": "https://seelbachshub.shop/product/river-roots-american-malt-whiskey-583-149-15-proof-selected-by-seelbachs/"
   },
@@ -75,7 +75,7 @@
       "Vanilla",
       "Toast"
     ],
-    "identificationConfidence": "medium",
+    "identificationConfidence": 0.61,
     "imageSource": "retailer",
     "imageSourceUrl": "https://seelbachs.com/collections/river-roots-barrel-company"
   },
@@ -91,7 +91,7 @@
       "Cocoa",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.61,
     "imageSource": "retailer",
     "imageSourceUrl": "https://seelbachs.com/collections/river-roots-barrel-company"
   },
@@ -107,7 +107,7 @@
       "Caramel",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.92,
     "imageSource": "official",
     "imageSourceUrl": "https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/"
   },
@@ -123,7 +123,7 @@
       "Malt",
       "Spice"
     ],
-    "identificationConfidence": "medium",
+    "identificationConfidence": 0.68,
     "imageSource": "retailer",
     "imageSourceUrl": "https://seelbachs.com/products/charbay-american-whiskey-private-blend-150-5-proof-selected-by-seelbachs"
   },
@@ -139,7 +139,7 @@
       "Oak",
       "Caramel"
     ],
-    "identificationConfidence": "medium",
+    "identificationConfidence": 0.62,
     "imageSource": "retailer",
     "imageSourceUrl": "https://seelbachs.com/products/charbay-american-whiskey-private-blend-150-5-proof-selected-by-seelbachs"
   },
@@ -155,7 +155,7 @@
       "Honey",
       "Spice"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.92,
     "imageSource": "official",
     "imageSourceUrl": "https://www.barrellbourbon.com/seagrass"
   },
@@ -171,7 +171,7 @@
       "Oak",
       "Spice"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.8,
     "imageSource": "official",
     "imageSourceUrl": "https://www.barrellbourbon.com/whiskey"
   },
@@ -187,25 +187,25 @@
       "Smoke",
       "Malt"
     ],
-    "identificationConfidence": "medium",
+    "identificationConfidence": 0.85,
     "imageSource": "official",
     "imageSourceUrl": "https://www.bruichladdich.com/products/octomore-15-1"
   },
   {
-    "id": "found-north-peregrine-5-year",
-    "name": "Found North Peregrine 5 Year",
+    "id": "found-north-15-year-whisky",
+    "name": "Found North 15 Year Whisky",
     "subtitle": "Cask Strength Whisky",
     "category": "Canadian Whisky",
     "region": "Canada",
-    "image": "https://cdn.prod.website-files.com/600cad2675a23eb270ccb572/65675afdeb5b7ac8e47aeb04_Peregrine%20Ecomm%20Transparent%20copy.png",
+    "image": "assets/bottles/placeholder.svg",
     "flavors": [
       "Maple",
       "Rye Spice",
       "Oak"
     ],
-    "identificationConfidence": "high",
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.foundnorthwhisky.com/peregrine"
+    "identificationConfidence": 0.62,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.foundnorthwhisky.com/"
   },
   {
     "id": "jack-daniels-single-barrel-rye",
@@ -219,7 +219,7 @@
       "Banana",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.89,
     "imageSource": "official",
     "imageSourceUrl": "https://www.jackdaniels.com/whiskey/single-barrel-rye"
   },
@@ -235,7 +235,7 @@
       "Corn",
       "Oak"
     ],
-    "identificationConfidence": "medium",
+    "identificationConfidence": 0.58,
     "imageSource": "official",
     "imageSourceUrl": "https://dettling1867.com/home"
   },
@@ -251,7 +251,7 @@
       "Vanilla",
       "Leather"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.81,
     "imageSource": "retailer",
     "imageSourceUrl": "https://www.reservebar.com/collections/bookers-bourbon"
   },
@@ -267,7 +267,7 @@
       "Spice",
       "Dark Fruit"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.89,
     "imageSource": "official",
     "imageSourceUrl": "https://highwest.com/pages/a-midwinter-nights-dram"
   },
@@ -283,7 +283,7 @@
       "Rye Spice",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.93,
     "imageSource": "official",
     "imageSourceUrl": "https://www.newriffdistilling.com/spirits/8-year-old-kentucky-straight-rye-whiskey/"
   },
@@ -299,7 +299,7 @@
       "Grain",
       "Spice"
     ],
-    "identificationConfidence": "medium",
+    "identificationConfidence": 0.64,
     "imageSource": "review",
     "imageSourceUrl": "https://www.breakingbourbon.com/review/little-book-chapter-8-path-not-taken"
   },
@@ -315,7 +315,7 @@
       "Honey",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.81,
     "imageSource": "official",
     "imageSourceUrl": "https://www.barrellbourbon.com/rye"
   },
@@ -331,7 +331,7 @@
       "Rye Spice",
       "Herbal"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.88,
     "imageSource": "official",
     "imageSourceUrl": "https://michters.com/us-1-barrel-strength-rye/"
   },
@@ -347,7 +347,7 @@
       "Oak",
       "Cherry"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.85,
     "imageSource": "retailer",
     "imageSourceUrl": "https://huntsmanheritage.com/products/very-olde-st-nick-immaculata-ancient-cask-bourbon-whiskey"
   },
@@ -363,7 +363,7 @@
       "Fruit",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.62,
     "imageSource": "review",
     "imageSourceUrl": "https://88bamboo.co/blogs/whisky-reviews/all-aboard-the-galaxy-express-999-taste-testing-craftbros-galaxy-express-999-whiskybros-world-malt-blend-first-departure-%EC%9D%80%ED%95%98%EC%B2%A0%EB%8F%84999-50-%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EB%94%94%ED%8C%8C%EC%B2%98-long-journey-%EC%9D%80%ED%95%98%EC%B2%A0%EB%8F%84999-52-%EB%A1%B1-%EC%A0%80%EB%8B%88"
   },
@@ -379,7 +379,7 @@
       "Orchard Fruit",
       "Vanilla"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.34,
     "imageSource": "placeholder",
     "imageSourceUrl": "https://thespeysidewhisky.com/collections/shop-bottle"
   },
@@ -395,7 +395,7 @@
       "Wheat",
       "Caramel"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.92,
     "imageSource": "review",
     "imageSourceUrl": "https://www.breakingbourbon.com/review/makers-mark-bourbon"
   },
@@ -411,7 +411,7 @@
       "Spice",
       "Caramel"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.89,
     "imageSource": "official",
     "imageSourceUrl": "https://www.rossvilleunion.com/"
   },
@@ -427,7 +427,7 @@
       "Caramel",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.9,
     "imageSource": "official",
     "imageSourceUrl": "https://www.jackdaniels.com/whiskey/10-year-old-tennessee-whiskey"
   },
@@ -443,7 +443,7 @@
       "Cherry",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.94,
     "imageSource": "official",
     "imageSourceUrl": "https://www.oldforester.com/products/old-forester-1920-style-prohibition-whisky/"
   },
@@ -459,7 +459,7 @@
       "Vanilla",
       "Nutty"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.92,
     "imageSource": "review",
     "imageSourceUrl": "https://www.breakingbourbon.com/review/knob-creek-small-batch-9-year-bourbon"
   },
@@ -475,7 +475,7 @@
       "Caramel",
       "Spice"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.79,
     "imageSource": "review",
     "imageSourceUrl": "https://www.breakingbourbon.com/review/makers-mark-cask-strength-bourbon"
   },
@@ -491,7 +491,7 @@
       "Rye Spice",
       "Oak"
     ],
-    "identificationConfidence": "high",
+    "identificationConfidence": 0.62,
     "imageSource": "official",
     "imageSourceUrl": "https://www.balconesdistilling.com/our-whisky/texas-rye"
   },
@@ -507,7 +507,7 @@
       "Honey",
       "Fruit"
     ],
-    "identificationConfidence": "low",
+    "identificationConfidence": 0.19,
     "imageSource": "placeholder",
     "imageSourceUrl": ""
   }

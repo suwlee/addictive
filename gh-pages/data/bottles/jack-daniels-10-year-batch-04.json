@@ -17,8 +17,20 @@
     "palate": "바닐라, 토피, 향신료, 오래 숙성한 오크.",
     "finish": "달콤한 오크와 스파이스가 안정적으로 남습니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.9,
   "image": "https://live-jd24-backend.pantheonsite.io/sites/default/files/2026-03/10-Year-Tennessee-Whiskey%20TRANS.png",
   "imageSource": "official",
-  "imageSourceUrl": "https://www.jackdaniels.com/whiskey/10-year-old-tennessee-whiskey"
+  "imageSourceUrl": "https://www.jackdaniels.com/whiskey/10-year-old-tennessee-whiskey",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.9,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.96,
+    "productConfidence": 0.92,
+    "variantConfidence": 0.82,
+    "imageMatchConfidence": 0.86,
+    "evidence": "제품명, 연식, 공식 이미지 매칭 신뢰도가 높습니다.",
+    "issues": []
+  },
+  "hookMessage": "Jack Daniel's 10 Year, 부드러운 단맛 뒤에 남는 진한 테네시 무드."
 }

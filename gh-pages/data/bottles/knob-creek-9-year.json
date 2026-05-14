@@ -17,8 +17,20 @@
     "palate": "브라운 슈거, 땅콩, 토스트, 후추.",
     "finish": "드라이한 오크와 바닐라가 길게 이어집니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.92,
   "image": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/5fad78acc64360716464dff3_Knob-Creek-Small-Batch-9-Year-06a.jpg",
   "imageSource": "review",
-  "imageSourceUrl": "https://www.breakingbourbon.com/review/knob-creek-small-batch-9-year-bourbon"
+  "imageSourceUrl": "https://www.breakingbourbon.com/review/knob-creek-small-batch-9-year-bourbon",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.92,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.98,
+    "productConfidence": 0.96,
+    "variantConfidence": 0.9,
+    "imageMatchConfidence": 0.72,
+    "evidence": "제품명은 확실하나 이미지 출처는 리뷰 페이지로 대체했습니다.",
+    "issues": []
+  },
+  "hookMessage": "Knob Creek 9 Year, 오늘 밤을 더 깊고 달콤하게 만드는 한 잔."
 }

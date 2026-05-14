@@ -17,8 +17,20 @@
     "palate": "부드러운 단맛, 토피, 시리얼, 낮은 스파이스.",
     "finish": "바닐라와 오크가 짧고 깔끔하게 남습니다."
   },
-  "identificationConfidence": "high",
+  "identificationConfidence": 0.92,
   "image": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/66ead7f2cd22c5c14eb0b1fc_Makers-Mark-Bourbon-2024-01.jpg",
   "imageSource": "review",
-  "imageSourceUrl": "https://www.breakingbourbon.com/review/makers-mark-bourbon"
+  "imageSourceUrl": "https://www.breakingbourbon.com/review/makers-mark-bourbon",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.92,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.98,
+    "productConfidence": 0.96,
+    "variantConfidence": 0.9,
+    "imageMatchConfidence": 0.72,
+    "evidence": "제품명은 확실하나 이미지 출처는 리뷰 페이지로 대체했습니다.",
+    "issues": []
+  },
+  "hookMessage": "Maker's Mark, 오늘 밤을 더 깊고 달콤하게 만드는 한 잔."
 }

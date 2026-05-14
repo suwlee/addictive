@@ -1,0 +1,239 @@
+<!DOCTYPE html><html class="dark" lang="ko"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>SPEAKEASY | Bottle List</title>
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Noto+Serif:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            "colors": {
+                    "on-secondary-fixed": "#351000",
+                    "error": "#ffb4ab",
+                    "surface-container-highest": "#2e3545",
+                    "on-tertiary": "#3a3000",
+                    "inverse-primary": "#904d00",
+                    "on-tertiary-fixed": "#221b00",
+                    "surface-tint": "#ffb77d",
+                    "secondary": "#ffb693",
+                    "surface-container-low": "#141b2b",
+                    "surface-container-lowest": "#070e1d",
+                    "primary-fixed": "#ffdcc3",
+                    "inverse-surface": "#dce2f7",
+                    "surface-dim": "#0c1322",
+                    "on-error-container": "#ffdad6",
+                    "tertiary-fixed-dim": "#dcc66e",
+                    "tertiary-container": "#bfab56",
+                    "surface-bright": "#323949",
+                    "primary-container": "#d97707",
+                    "on-primary-fixed-variant": "#6e3900",
+                    "primary": "#ffb77d",
+                    "on-error": "#690005",
+                    "background": "#0c1322",
+                    "primary-fixed-dim": "#ffb77d",
+                    "on-primary-container": "#432100",
+                    "on-surface": "#dce2f7",
+                    "surface": "#0c1322",
+                    "on-primary-fixed": "#2f1500",
+                    "outline": "#a38c7c",
+                    "on-secondary-fixed-variant": "#76330d",
+                    "tertiary-fixed": "#f9e287",
+                    "tertiary": "#dcc66e",
+                    "surface-container-high": "#232a3a",
+                    "on-secondary-container": "#fc9e6f",
+                    "surface-container": "#191f2f",
+                    "error-container": "#93000a",
+                    "on-tertiary-fixed-variant": "#534600",
+                    "outline-variant": "#554336",
+                    "surface-variant": "#2e3545",
+                    "on-background": "#dce2f7",
+                    "on-secondary": "#561f00",
+                    "secondary-fixed-dim": "#ffb693",
+                    "inverse-on-surface": "#293040",
+                    "on-tertiary-container": "#4b3f00",
+                    "secondary-container": "#76330d",
+                    "secondary-fixed": "#ffdbcc",
+                    "on-surface-variant": "#dbc2b0",
+                    "on-primary": "#4d2600"
+            },
+            "borderRadius": {
+                    "DEFAULT": "0.25rem",
+                    "lg": "0.5rem",
+                    "xl": "0.75rem",
+                    "full": "9999px"
+            },
+            "spacing": {
+                    "gutter": "16px",
+                    "stack-sm": "8px",
+                    "stack-lg": "24px",
+                    "stack-md": "16px",
+                    "unit": "8px",
+                    "section-gap": "48px",
+                    "container-margin": "24px"
+            },
+            "fontFamily": {
+                    "body-md": ["DM Sans"],
+                    "label-lg": ["DM Sans"],
+                    "display-lg": ["Noto Serif"],
+                    "headline-sm": ["Noto Serif"],
+                    "headline-md": ["Noto Serif"],
+                    "headline-lg": ["Noto Serif"],
+                    "label-md": ["DM Sans"],
+                    "body-lg": ["DM Sans"]
+            },
+            "fontSize": {
+                    "body-md": ["16px", {"lineHeight": "1.6", "fontWeight": "400"}],
+                    "label-lg": ["14px", {"lineHeight": "1.2", "letterSpacing": "0.05em", "fontWeight": "600"}],
+                    "display-lg": ["40px", {"lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                    "display-lg-mobile": ["32px", {"lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                    "headline-sm": ["20px", {"lineHeight": "1.4", "fontWeight": "500"}],
+                    "headline-md": ["24px", {"lineHeight": "1.4", "fontWeight": "600"}],
+                    "headline-lg": ["32px", {"lineHeight": "1.3", "fontWeight": "600"}],
+                    "label-md": ["12px", {"lineHeight": "1.2", "letterSpacing": "0.02em", "fontWeight": "500"}],
+                    "body-lg": ["18px", {"lineHeight": "1.6", "fontWeight": "400"}]
+            }
+          },
+        },
+      }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        .hide-scrollbar::-webkit-scrollbar { display: none; }
+        .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        body { min-height: max(884px, 100dvh); }
+    </style>
+</head>
+<body class="bg-background text-on-background font-body-md antialiased">
+<header class="fixed top-0 w-full z-50 bg-surface/80 dark:bg-surface/80 backdrop-blur-md shadow-sm flex items-center justify-between px-gutter h-16">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-primary dark:text-primary-fixed cursor-pointer active:opacity-70 transition-opacity" data-icon="menu">menu</span>
+<h1 class="font-display-lg text-display-lg-mobile tracking-tighter text-primary dark:text-primary-fixed uppercase">SPEAKEASY</h1>
+</div>
+<span class="material-symbols-outlined text-primary dark:text-primary-fixed cursor-pointer active:opacity-70 transition-opacity" data-icon="search">search</span>
+</header>
+<main class="pt-20 pb-10 px-container-margin">
+<section class="mb-stack-lg">
+<h2 class="font-headline-lg text-headline-lg text-on-surface mb-unit">The Cellar</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">엄선한 보틀을 한눈에 둘러보고 상세 정보를 확인하세요.</p>
+</section>
+<nav id="category-filters" class="flex overflow-x-auto hide-scrollbar gap-stack-md mb-section-gap -mx-container-margin px-container-margin"></nav>
+<div id="bottle-grid" class="grid gap-stack-lg grid-cols-2"></div>
+<p id="empty-state" class="hidden text-center text-on-surface-variant font-body-md py-section-gap">표시할 보틀이 없습니다.</p>
+</main>
+<template id="category-template">
+<button class="flex-shrink-0 px-stack-lg py-2 rounded-full font-label-lg text-label-lg transition-all active:scale-95"></button>
+</template>
+<template id="bottle-card-template">
+<a class="group relative overflow-hidden rounded-xl bg-surface-container shadow-lg border border-white/5 aspect-square flex flex-col active:scale-[0.98] transition-transform" href="#">
+<div class="h-1/2 relative bg-surface-container-lowest/50">
+<img class="absolute inset-0 w-full h-full object-contain p-2 transition-transform duration-700 group-hover:scale-105" alt="">
+<div class="absolute top-2 left-2"><span class="region font-label-md text-[10px] text-primary bg-primary-container/20 px-1.5 py-0.5 rounded backdrop-blur-sm"></span></div>
+</div>
+<div class="flex-1 p-3 flex flex-col justify-center">
+<div class="space-y-1 text-center">
+<h3 class="name font-headline-sm text-sm text-on-surface line-clamp-1"></h3>
+<p class="subtitle font-label-md text-[10px] text-primary line-clamp-1"></p>
+<div class="flavors flex flex-wrap gap-1 justify-center"></div>
+</div>
+</div>
+</a>
+</template>
+<script>
+const state = {
+  bottles: [],
+  selectedCategory: 'All'
+};
+
+const categoryFilters = document.querySelector('#category-filters');
+const bottleGrid = document.querySelector('#bottle-grid');
+const emptyState = document.querySelector('#empty-state');
+const categoryTemplate = document.querySelector('#category-template');
+const bottleCardTemplate = document.querySelector('#bottle-card-template');
+
+function setSelectedCategory(category) {
+  state.selectedCategory = category;
+  renderCategories();
+  renderBottles();
+}
+
+function getCategories() {
+  const categories = state.bottles.map((bottle) => bottle.category).filter(Boolean);
+  return ['All', ...new Set(categories)];
+}
+
+function renderCategories() {
+  categoryFilters.replaceChildren();
+
+  for (const category of getCategories()) {
+    const button = categoryTemplate.content.firstElementChild.cloneNode(true);
+    button.textContent = category;
+    button.type = 'button';
+    button.setAttribute('aria-pressed', String(category === state.selectedCategory));
+    button.className += category === state.selectedCategory
+      ? ' bg-primary-container text-on-primary-container'
+      : ' bg-surface-variant/30 text-on-surface-variant border border-outline-variant hover:bg-surface-variant/50';
+    button.addEventListener('click', () => setSelectedCategory(category));
+    categoryFilters.append(button);
+  }
+}
+
+function getVisibleBottles() {
+  if (state.selectedCategory === 'All') return state.bottles;
+  return state.bottles.filter((bottle) => bottle.category === state.selectedCategory);
+}
+
+function renderBottles() {
+  const visibleBottles = getVisibleBottles();
+  bottleGrid.replaceChildren();
+  emptyState.classList.toggle('hidden', visibleBottles.length > 0);
+
+  for (const bottle of visibleBottles) {
+    const card = bottleCardTemplate.content.firstElementChild.cloneNode(true);
+    const image = card.querySelector('img');
+    const region = card.querySelector('.region');
+    const name = card.querySelector('.name');
+    const subtitle = card.querySelector('.subtitle');
+    const flavors = card.querySelector('.flavors');
+
+    card.href = `bmm_detail.html?id=${encodeURIComponent(bottle.id)}`;
+    image.src = bottle.image;
+    image.alt = bottle.name;
+    region.textContent = bottle.region || bottle.category || '';
+    name.textContent = bottle.name;
+    subtitle.textContent = bottle.subtitle || bottle.category || '';
+
+    for (const [index, flavor] of (bottle.flavors || []).entries()) {
+      const span = document.createElement('span');
+      span.className = 'font-label-md text-[10px] text-on-surface-variant';
+      span.textContent = index === 0 ? flavor : `• ${flavor}`;
+      flavors.append(span);
+    }
+
+    bottleGrid.append(card);
+  }
+}
+
+async function loadBottles() {
+  try {
+    const response = await fetch('data/bottles.json');
+    if (!response.ok) throw new Error(`보틀 데이터를 불러오지 못했습니다: ${response.status}`);
+    state.bottles = await response.json();
+    renderCategories();
+    renderBottles();
+  } catch (error) {
+    console.error(error);
+    emptyState.textContent = '보틀 데이터를 불러오지 못했습니다.';
+    emptyState.classList.remove('hidden');
+  }
+}
+
+loadBottles();
+</script>
+</body></html>

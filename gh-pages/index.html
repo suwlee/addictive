@@ -202,7 +202,7 @@ function renderBottles() {
     const subtitle = card.querySelector('.subtitle');
     const flavors = card.querySelector('.flavors');
 
-    card.href = `bmm_detail.html?id=${encodeURIComponent(bottle.id)}`;
+    card.href = `detail.html?id=${encodeURIComponent(bottle.id)}`;
     image.src = bottle.image;
     image.alt = bottle.name;
     region.textContent = bottle.region || bottle.category || '';

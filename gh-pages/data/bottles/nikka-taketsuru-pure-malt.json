@@ -1,0 +1,36 @@
+{
+  "id": "nikka-taketsuru-pure-malt",
+  "name": "Nikka Taketsuru Pure Malt",
+  "subtitle": "Pure Malt Whisky",
+  "category": "Japanese Whisky",
+  "region": "Japan",
+  "abv": "43%",
+  "age": "NAS",
+  "flavors": [
+    "Malt",
+    "Apple",
+    "Smoke"
+  ],
+  "description": "Taketsuru Pure Malt는 닛카의 블렌딩 감각을 보여주는 퓨어 몰트 위스키입니다. 과실, 몰트, 은은한 스모키함이 균형감 있게 이어집니다.",
+  "notes": {
+    "nose": "사과, 몰트, 꿀, 약한 스모크.",
+    "palate": "둥근 몰트 단맛, 과실, 견과류.",
+    "finish": "부드러운 스모크와 오크."
+  },
+  "identificationConfidence": 0.93,
+  "image": "https://www.nikka.com/en/brands/taketsuru/img/og.jpg",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.nikka.com/en/brands/taketsuru/",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.93,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.98,
+    "productConfidence": 0.96,
+    "variantConfidence": 0.92,
+    "imageMatchConfidence": 0.75,
+    "evidence": "Nikka Taketsuru Pure Malt 제품명이 선명하며, 공식 페이지의 대표 이미지를 사용했습니다.",
+    "issues": []
+  },
+  "hookMessage": "Taketsuru, 닛카 블렌딩의 부드러운 중심을 만나는 순간."
+}

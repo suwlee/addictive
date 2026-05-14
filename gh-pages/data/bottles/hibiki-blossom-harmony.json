@@ -1,0 +1,36 @@
+{
+  "id": "hibiki-blossom-harmony",
+  "name": "Hibiki Blossom Harmony",
+  "subtitle": "Limited Edition Blended Japanese Whisky",
+  "category": "Japanese Whisky",
+  "region": "Japan",
+  "abv": "43%",
+  "age": "NAS",
+  "flavors": [
+    "Sakura",
+    "Honey",
+    "Fruit"
+  ],
+  "description": "Hibiki Blossom Harmony는 벚꽃 캐스크 피니시의 화사한 향과 히비키 특유의 부드러운 블렌딩이 어우러지는 리미티드 에디션입니다.",
+  "notes": {
+    "nose": "꽃향, 꿀, 배, 은은한 체리.",
+    "palate": "부드러운 과실 단맛, 바닐라, 꽃향.",
+    "finish": "화사하고 섬세한 여운."
+  },
+  "identificationConfidence": 0.79,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.suntory.com/whisky/hibiki/",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.79,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.97,
+    "productConfidence": 0.92,
+    "variantConfidence": 0.86,
+    "imageMatchConfidence": 0.0,
+    "evidence": "Hibiki Blossom Harmony 제품명과 분홍색 서브 라벨 단서가 강하게 일치합니다. 공식 이미지 접근은 확보하지 못했습니다.",
+    "issues": []
+  },
+  "hookMessage": "Blossom Harmony, 화사한 향으로 잔을 물들이는 리미티드 무드."
+}

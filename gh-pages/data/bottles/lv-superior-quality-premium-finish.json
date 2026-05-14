@@ -1,0 +1,39 @@
+{
+  "id": "lv-superior-quality-premium-finish",
+  "name": "LV Superior Quality Premium Finish",
+  "subtitle": "Unidentified Whisky Candidate",
+  "category": "Whisky",
+  "region": "Unknown",
+  "abv": "Unknown",
+  "age": "Unknown",
+  "flavors": [
+    "Soft",
+    "Oak",
+    "Mystery"
+  ],
+  "description": "LV Premium Finish 후보는 브랜드와 제품군을 추가 확인해야 하는 보틀입니다. 확정 전에는 메뉴 노출보다 내부 검수용으로 보관하는 편이 안전합니다.",
+  "notes": {
+    "nose": "세부 제품 정보 미확정.",
+    "palate": "검수 전까지 구체 노트 보류.",
+    "finish": "제품명 확정 후 업데이트 필요."
+  },
+  "identificationConfidence": 0.33,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.33,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.45,
+    "productConfidence": 0.38,
+    "variantConfidence": 0.3,
+    "imageMatchConfidence": 0.0,
+    "evidence": "LV와 Premium Finish 단서는 있으나 브랜드 실체와 주종 확인이 부족합니다.",
+    "issues": [
+      "confidence가 낮아 목록 노출에서 제외됩니다.",
+      "공식 제품명과 주종 확인이 필요합니다."
+    ]
+  },
+  "hookMessage": "검수 대기 중인 프리미엄 피니시 후보입니다."
+}

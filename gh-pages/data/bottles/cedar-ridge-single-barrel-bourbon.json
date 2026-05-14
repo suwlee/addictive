@@ -1,0 +1,36 @@
+{
+  "id": "cedar-ridge-single-barrel-bourbon",
+  "name": "Cedar Ridge Single Barrel Bourbon",
+  "subtitle": "Straight Bourbon Whiskey",
+  "category": "Bourbon",
+  "region": "Iowa",
+  "abv": "Variable",
+  "age": "Single Barrel",
+  "flavors": [
+    "Corn",
+    "Vanilla",
+    "Oak"
+  ],
+  "description": "Cedar Ridge Single Barrel Bourbon은 아이오와 옥수수의 달콤함과 싱글 배럴 특유의 밀도 있는 오크, 바닐라 풍미가 돋보이는 버번입니다.",
+  "notes": {
+    "nose": "옥수수 단맛, 바닐라, 캐러멜, 오크.",
+    "palate": "토피, 곡물 단맛, 스파이스, 구운 오크.",
+    "finish": "바닐라와 오크가 중간 길이로 이어집니다."
+  },
+  "identificationConfidence": 0.77,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://cedarridgedistillery.com/",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.77,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.96,
+    "productConfidence": 0.9,
+    "variantConfidence": 0.85,
+    "imageMatchConfidence": 0.0,
+    "evidence": "Cedar Ridge, Single Barrel, Straight Bourbon Whiskey 문구가 선명합니다. 공식 동일 제품 이미지는 확정하지 못했습니다.",
+    "issues": []
+  },
+  "hookMessage": "Cedar Ridge, 싱글 배럴 버번의 밀도 있는 단맛."
+}

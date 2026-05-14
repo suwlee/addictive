@@ -1,0 +1,38 @@
+{
+  "id": "the-balvenie-portwood-21-year",
+  "name": "The Balvenie PortWood 21 Year",
+  "subtitle": "Single Malt Scotch Whisky",
+  "category": "Scotch",
+  "region": "Speyside, Scotland",
+  "abv": "40%",
+  "age": "21 Years",
+  "flavors": [
+    "Honey",
+    "Fruit",
+    "Oak"
+  ],
+  "description": "The Balvenie PortWood 21 Year는 포트 캐스크 피니시에서 오는 과실감과 꿀, 부드러운 오크가 우아하게 이어지는 스페이사이드 싱글 몰트입니다.",
+  "notes": {
+    "nose": "꿀, 말린 과일, 바닐라, 은은한 오크.",
+    "palate": "부드러운 과실 단맛, 견과류, 스파이스.",
+    "finish": "달콤한 과실과 오크가 길고 우아하게 남습니다."
+  },
+  "identificationConfidence": 0.61,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.thebalvenie.com/",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.61,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.82,
+    "productConfidence": 0.7,
+    "variantConfidence": 0.62,
+    "imageMatchConfidence": 0.0,
+    "evidence": "Balvenie, PortWood, 21 Years로 보이는 단서가 있으나 일부가 가려져 후보로 분류했습니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "PortWood 21, 조용히 깊어지는 과실감이 필요한 밤에."
+}

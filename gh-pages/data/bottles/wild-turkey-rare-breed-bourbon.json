@@ -1,0 +1,36 @@
+{
+  "id": "wild-turkey-rare-breed-bourbon",
+  "name": "Wild Turkey Rare Breed",
+  "subtitle": "Kentucky Straight Bourbon Whiskey",
+  "category": "Bourbon",
+  "region": "Kentucky",
+  "abv": "Barrel Proof",
+  "age": "NAS",
+  "flavors": [
+    "Vanilla",
+    "Spice",
+    "Oak"
+  ],
+  "description": "Wild Turkey Rare Breed는 배럴 프루프 버번의 진한 바닐라, 향신료, 오크 캐릭터가 돋보이는 보틀입니다. 클래식한 와일드 터키의 힘 있는 질감을 즐기기 좋습니다.",
+  "notes": {
+    "nose": "바닐라, 오렌지 껍질, 캐러멜, 오크.",
+    "palate": "브라운 슈거, 후추, 토스트 오크, 진한 바디.",
+    "finish": "스파이스와 오크가 길고 따뜻하게 남습니다."
+  },
+  "identificationConfidence": 0.8,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.wildturkeybourbon.com/",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.8,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.98,
+    "productConfidence": 0.94,
+    "variantConfidence": 0.88,
+    "imageMatchConfidence": 0.0,
+    "evidence": "Wild Turkey Rare Breed 제품명과 병 형태 단서가 매우 강합니다. 공식 동일 제품 이미지는 확정하지 못했습니다.",
+    "issues": []
+  },
+  "hookMessage": "Rare Breed, 강렬한 버번 무드가 필요한 순간을 위한 한 잔."
+}

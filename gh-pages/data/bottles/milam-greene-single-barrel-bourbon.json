@@ -1,0 +1,38 @@
+{
+  "id": "milam-greene-single-barrel-bourbon",
+  "name": "Milam & Greene Single Barrel Bourbon",
+  "subtitle": "Single Barrel Bourbon Candidate",
+  "category": "Bourbon",
+  "region": "Texas",
+  "abv": "Unknown",
+  "age": "Single Barrel",
+  "flavors": [
+    "Caramel",
+    "Oak",
+    "Spice"
+  ],
+  "description": "Milam & Greene Single Barrel Bourbon은 캐러멜과 오크, 향신료가 선명한 텍사스 기반 버번 스타일을 기대할 수 있는 후보 보틀입니다.",
+  "notes": {
+    "nose": "캐러멜, 바닐라, 오크, 약한 향신료.",
+    "palate": "브라운 슈거, 구운 오크, 후추.",
+    "finish": "스파이스와 달콤한 오크."
+  },
+  "identificationConfidence": 0.52,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://milamandgreenewhiskey.com/",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.52,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.75,
+    "productConfidence": 0.6,
+    "variantConfidence": 0.45,
+    "imageMatchConfidence": 0.0,
+    "evidence": "Milam & Greene로 보이는 브랜드 단서와 싱글 배럴 버번 형태가 있으나 일부가 가려져 후보로 분류했습니다.",
+    "issues": [
+      "브랜드와 세부 제품명 재검수가 필요합니다."
+    ]
+  },
+  "hookMessage": "Milam & Greene 후보, 텍사스 버번의 묵직한 매력을 기대하세요."
+}

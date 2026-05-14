@@ -1,0 +1,36 @@
+{
+  "id": "hibiki-japanese-harmony",
+  "name": "Hibiki Japanese Harmony",
+  "subtitle": "Blended Japanese Whisky",
+  "category": "Japanese Whisky",
+  "region": "Japan",
+  "abv": "43%",
+  "age": "NAS",
+  "flavors": [
+    "Honey",
+    "Orange Peel",
+    "Oak"
+  ],
+  "description": "Hibiki Japanese Harmony는 꿀, 오렌지 껍질, 부드러운 오크가 조화롭게 이어지는 일본 블렌디드 위스키의 대표적인 엔트리입니다.",
+  "notes": {
+    "nose": "꿀, 오렌지 껍질, 흰 꽃, 바닐라.",
+    "palate": "부드러운 단맛, 과실, 오크, 약한 스파이스.",
+    "finish": "깔끔하고 우아한 달콤함."
+  },
+  "identificationConfidence": 0.78,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.suntory.com/whisky/hibiki/",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.78,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.97,
+    "productConfidence": 0.94,
+    "variantConfidence": 0.8,
+    "imageMatchConfidence": 0.0,
+    "evidence": "Hibiki Japanese Harmony 제품명과 병 형태가 강하게 일치합니다. 공식 이미지 접근은 확보하지 못했습니다.",
+    "issues": []
+  },
+  "hookMessage": "Hibiki Harmony, 부드러운 균형으로 분위기를 정리하는 한 잔."
+}

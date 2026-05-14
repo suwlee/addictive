@@ -1,0 +1,38 @@
+{
+  "id": "craftbros-galaxy-express-999-first-departure",
+  "name": "Craftbros Galaxy Express 999 First Departure",
+  "subtitle": "WhiskyBros World Malt Blend",
+  "category": "World Whisky",
+  "region": "Korea",
+  "abv": "50%",
+  "age": "NAS",
+  "flavors": [
+    "Malt",
+    "Fruit",
+    "Spice"
+  ],
+  "description": "Galaxy Express 999 First Departure는 애니메이션 협업의 시각적 존재감과 월드 몰트 블렌드의 친근한 몰트 캐릭터를 함께 즐길 수 있는 한정 감성의 위스키입니다.",
+  "notes": {
+    "nose": "가벼운 몰트, 과실, 은은한 바닐라.",
+    "palate": "곡물 단맛, 노란 과일, 부드러운 스파이스.",
+    "finish": "깔끔한 몰트와 드라이한 여운."
+  },
+  "identificationConfidence": 0.79,
+  "image": "https://88bamboo.co/cdn/shop/articles/photo_2026-01-16_16.07.06_f90d8ce9-e82f-4a70-9f26-231dd1ce12fc_1200x1200.jpg?v=1768585543",
+  "imageSource": "review",
+  "imageSourceUrl": "https://88bamboo.co/blogs/whisky-reviews/all-aboard-the-galaxy-express-999-taste-testing-craftbros-galaxy-express-999-whiskybros-world-malt-blend-first-departure-%EC%9D%80%ED%95%98%EC%B2%A0%EB%8F%84999-50-%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EB%94%94%ED%8C%8C%EC%B2%98-long-journey-%EC%9D%80%ED%95%98%EC%B2%A0%EB%8F%84999-52-%EB%A1%B1-%EC%A0%80%EB%8B%88",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.79,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.9,
+    "productConfidence": 0.75,
+    "variantConfidence": 0.85,
+    "imageMatchConfidence": 0.55,
+    "evidence": "Galaxy Express 999 협업 보틀과 First Departure 리뷰 자료가 일치합니다. 외부 리뷰 이미지는 동일 시리즈 참조입니다.",
+    "issues": [
+      "리뷰 이미지이며 실제 병의 세부 배치와 다를 수 있습니다."
+    ]
+  },
+  "hookMessage": "First Departure, 은하철도 감성으로 출발하는 오늘의 한 잔."
+}

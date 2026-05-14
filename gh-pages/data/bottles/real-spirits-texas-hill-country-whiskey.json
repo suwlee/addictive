@@ -1,0 +1,38 @@
+{
+  "id": "real-spirits-texas-hill-country-whiskey",
+  "name": "Real Spirits Texas Hill Country Whiskey",
+  "subtitle": "Texas Hill Country Whiskey",
+  "category": "American Whiskey",
+  "region": "Texas",
+  "abv": "Unknown",
+  "age": "NAS",
+  "flavors": [
+    "Grain",
+    "Honey",
+    "Oak"
+  ],
+  "description": "Real Spirits Texas Hill Country Whiskey는 텍사스 힐 컨트리 감성의 곡물 단맛과 오크, 은은한 허브 뉘앙스를 편안하게 즐길 수 있는 아메리칸 위스키입니다.",
+  "notes": {
+    "nose": "곡물, 꿀, 바닐라, 약한 허브.",
+    "palate": "부드러운 단맛, 오크, 가벼운 스파이스.",
+    "finish": "드라이한 오크와 곡물 여운."
+  },
+  "identificationConfidence": 0.69,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://realalebrewing.com/online-spirits/",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.69,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.9,
+    "productConfidence": 0.82,
+    "variantConfidence": 0.65,
+    "imageMatchConfidence": 0.0,
+    "evidence": "Real Spirits 및 Texas Hill Country Whiskey 단서가 뚜렷합니다. 공식 동일 제품 이미지는 확정하지 못했습니다.",
+    "issues": [
+      "공개 메뉴 사용 전 사람 검수를 권장합니다."
+    ]
+  },
+  "hookMessage": "Real Spirits, 텍사스의 편안한 곡물 단맛을 담은 한 잔."
+}

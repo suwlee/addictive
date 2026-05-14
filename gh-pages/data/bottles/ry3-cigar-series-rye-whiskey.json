@@ -1,0 +1,36 @@
+{
+  "id": "ry3-cigar-series-rye-whiskey",
+  "name": "RY3 Cigar Series",
+  "subtitle": "Cask Finish Rye Whiskey",
+  "category": "Rye Whiskey",
+  "region": "United States",
+  "abv": "Cask Strength",
+  "age": "NAS",
+  "flavors": [
+    "Rye Spice",
+    "Cigar Box",
+    "Oak"
+  ],
+  "description": "RY3 Cigar Series는 시가 페어링을 염두에 둔 캐스크 피니시 라이 위스키입니다. 라이 스파이스, 다크 스위트니스, 오크의 진한 조합이 매력적입니다.",
+  "notes": {
+    "nose": "라이 스파이스, 체리, 토스트 오크, 시가 박스.",
+    "palate": "진한 향신료, 다크 캐러멜, 오크, 말린 과일.",
+    "finish": "스파이시하고 길게 이어지는 달콤한 피니시."
+  },
+  "identificationConfidence": 0.93,
+  "image": "https://static.wixstatic.com/media/109e24_abbca4a8eb474ea8a5dd651e0953d208~mv2.png/v1/fill/w_119,h_500,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cigar.png",
+  "imageSource": "official",
+  "imageSourceUrl": "https://www.ry3whiskey.com/cigar-series-cask-finish",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.93,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.98,
+    "productConfidence": 0.94,
+    "variantConfidence": 0.9,
+    "imageMatchConfidence": 0.82,
+    "evidence": "RY3 Cigar Series 제품명과 공식 Cigar Series 페이지 이미지가 일치합니다.",
+    "issues": []
+  },
+  "hookMessage": "RY3 Cigar Series, 묵직한 스파이스로 시가 무드를 완성하세요."
+}

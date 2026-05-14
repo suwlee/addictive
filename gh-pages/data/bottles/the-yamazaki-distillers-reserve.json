@@ -1,0 +1,36 @@
+{
+  "id": "the-yamazaki-distillers-reserve",
+  "name": "The Yamazaki Distiller’s Reserve",
+  "subtitle": "Single Malt Japanese Whisky",
+  "category": "Japanese Whisky",
+  "region": "Yamazaki, Japan",
+  "abv": "43%",
+  "age": "NAS",
+  "flavors": [
+    "Strawberry",
+    "Mizunara",
+    "Vanilla"
+  ],
+  "description": "The Yamazaki Distiller’s Reserve는 산뜻한 과실과 바닐라, 미즈나라 오크의 섬세한 향을 즐길 수 있는 일본 싱글 몰트입니다.",
+  "notes": {
+    "nose": "딸기, 체리, 바닐라, 은은한 오크.",
+    "palate": "과실 단맛, 시나몬, 부드러운 나무 향.",
+    "finish": "깔끔한 과실감과 오크."
+  },
+  "identificationConfidence": 0.77,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.suntory.com/whisky/yamazaki/",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.77,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.96,
+    "productConfidence": 0.92,
+    "variantConfidence": 0.78,
+    "imageMatchConfidence": 0.0,
+    "evidence": "Yamazaki 싱글 몰트 형태와 Distiller’s Reserve로 보이는 텍스트 단서가 강합니다. 공식 이미지 접근은 확보하지 못했습니다.",
+    "issues": []
+  },
+  "hookMessage": "Yamazaki, 섬세한 과실과 오크로 완성하는 우아한 한 잔."
+}

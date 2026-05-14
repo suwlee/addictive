@@ -1,0 +1,38 @@
+{
+  "id": "glenfarclas-family-casks",
+  "name": "Glenfarclas The Family Casks",
+  "subtitle": "Single Cask Scotch Whisky Candidate",
+  "category": "Scotch",
+  "region": "Speyside, Scotland",
+  "abv": "Variable",
+  "age": "Vintage / Single Cask",
+  "flavors": [
+    "Sherry",
+    "Dried Fruit",
+    "Oak"
+  ],
+  "description": "Glenfarclas The Family Casks는 빈티지와 캐스크별 개성이 핵심인 싱글 캐스크 라인입니다. 셰리 풍미, 말린 과일, 묵직한 오크의 깊이를 기대할 수 있습니다.",
+  "notes": {
+    "nose": "말린 과일, 셰리, 견과류, 오크.",
+    "palate": "진한 과실 단맛, 스파이스, 다크 초콜릿.",
+    "finish": "묵직한 오크와 셰리 여운."
+  },
+  "identificationConfidence": 0.62,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.glenfarclas.com/",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.62,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.96,
+    "productConfidence": 0.75,
+    "variantConfidence": 0.35,
+    "imageMatchConfidence": 0.0,
+    "evidence": "Glenfarclas Family Casks 목재 케이스 단서가 강하지만 빈티지와 캐스크 번호는 확정하지 못했습니다.",
+    "issues": [
+      "빈티지/캐스크 번호 미확정으로 세부 표기는 후보 상태입니다."
+    ]
+  },
+  "hookMessage": "Family Casks, 셰리 캐스크의 깊이를 천천히 음미하세요."
+}

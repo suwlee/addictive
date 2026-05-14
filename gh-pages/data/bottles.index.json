@@ -1,389 +1,5 @@
 [
   {
-    "id": "francois-peyrot-lot-70",
-    "name": "François Peyrot Lot 70",
-    "subtitle": "Grande Champagne Cognac",
-    "category": "Cognac",
-    "region": "Cognac, France",
-    "image": "assets/bottles/placeholder.svg",
-    "flavors": [
-      "Dried Fruit",
-      "Rancio",
-      "Oak"
-    ],
-    "identificationConfidence": 0.67,
-    "imageSource": "placeholder",
-    "imageSourceUrl": "https://cognac-peyrot.com/"
-  },
-  {
-    "id": "bookers-small-batch-bourbon-collection",
-    "name": "Booker's Small Batch Bourbon Collection",
-    "subtitle": "Uncut & Unfiltered",
-    "category": "Bourbon",
-    "region": "Kentucky",
-    "image": "https://images.ctfassets.net/qbvb79w96uc8/2EXVxzApuJNrNL7TnetXyx/47207e9d2563d6a63415dee7110f4d64/Bookers.jpg",
-    "flavors": [
-      "Peanut",
-      "Vanilla",
-      "Oak"
-    ],
-    "identificationConfidence": 0.82,
-    "imageSource": "retailer",
-    "imageSourceUrl": "https://www.reservebar.com/collections/bookers-bourbon"
-  },
-  {
-    "id": "little-book-the-infinite-path-not-taken",
-    "name": "Little Book The Infinite",
-    "subtitle": "Path Not Taken",
-    "category": "Blended Whiskey",
-    "region": "Kentucky",
-    "image": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/66759a8352cf62eee80a8b17_Little-Book-Chapter-8-Path-Not-Taken-01.jpg",
-    "flavors": [
-      "Caramel",
-      "Spice",
-      "Oak"
-    ],
-    "identificationConfidence": 0.83,
-    "imageSource": "review",
-    "imageSourceUrl": "https://www.breakingbourbon.com/review/little-book-chapter-8-path-not-taken"
-  },
-  {
-    "id": "river-roots-seelbachs-american-malt",
-    "name": "River Roots x Seelbach's American Malt",
-    "subtitle": "American Malt Whiskey",
-    "category": "American Malt",
-    "region": "United States",
-    "image": "https://seelbachshub.shop/wp-content/uploads/2025/09/RiverRootsAmericanMaltWhiskey_583149.15proof-SelectedbySeelbach_s.jpg",
-    "flavors": [
-      "Malt",
-      "Honey",
-      "Oak"
-    ],
-    "identificationConfidence": 0.7,
-    "imageSource": "retailer",
-    "imageSourceUrl": "https://seelbachshub.shop/product/river-roots-american-malt-whiskey-583-149-15-proof-selected-by-seelbachs/"
-  },
-  {
-    "id": "river-roots-butter-shop",
-    "name": "River Roots Butter Shop",
-    "subtitle": "American Malt Whiskey",
-    "category": "American Malt",
-    "region": "United States",
-    "image": "https://seelbachshub.shop/wp-content/uploads/2025/09/RiverRootsAmericanMaltWhiskey_583149.15proof-SelectedbySeelbach_s.jpg",
-    "flavors": [
-      "Butter",
-      "Vanilla",
-      "Toast"
-    ],
-    "identificationConfidence": 0.61,
-    "imageSource": "retailer",
-    "imageSourceUrl": "https://seelbachs.com/collections/river-roots-barrel-company"
-  },
-  {
-    "id": "river-roots-obedire-veritas",
-    "name": "River Roots Obedire Veritas",
-    "subtitle": "American Malt Whiskey",
-    "category": "American Malt",
-    "region": "United States",
-    "image": "https://seelbachshub.shop/wp-content/uploads/2025/09/RiverRootsAmericanMaltWhiskey_583149.15proof-SelectedbySeelbach_s.jpg",
-    "flavors": [
-      "Malt",
-      "Cocoa",
-      "Oak"
-    ],
-    "identificationConfidence": 0.61,
-    "imageSource": "retailer",
-    "imageSourceUrl": "https://seelbachs.com/collections/river-roots-barrel-company"
-  },
-  {
-    "id": "william-larue-weller",
-    "name": "William Larue Weller",
-    "subtitle": "Kentucky Straight Bourbon Whiskey",
-    "category": "Bourbon",
-    "region": "Kentucky",
-    "image": "https://cms.buffalotracedistillery.com/wp-content/uploads/2025/11/WILLIAM_LARUE_WELLER_BOTTLE.png",
-    "flavors": [
-      "Cherry",
-      "Caramel",
-      "Oak"
-    ],
-    "identificationConfidence": 0.92,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/"
-  },
-  {
-    "id": "charbay-seelbachs-blue-label",
-    "name": "Charbay x Seelbach's Blue Label",
-    "subtitle": "Whiskey Selection",
-    "category": "American Whiskey",
-    "region": "United States",
-    "image": "https://seelbachs.com/cdn/shop/files/Charbay_Seelbach_s_Blend_1.png?v=1763576835",
-    "flavors": [
-      "Fruit",
-      "Malt",
-      "Spice"
-    ],
-    "identificationConfidence": 0.68,
-    "imageSource": "retailer",
-    "imageSourceUrl": "https://seelbachs.com/products/charbay-american-whiskey-private-blend-150-5-proof-selected-by-seelbachs"
-  },
-  {
-    "id": "charbay-seelbachs-green-label",
-    "name": "Charbay x Seelbach's Green Label",
-    "subtitle": "Whiskey Selection",
-    "category": "American Whiskey",
-    "region": "United States",
-    "image": "https://seelbachs.com/cdn/shop/files/Charbay_Seelbach_s_Blend_1.png?v=1763576835",
-    "flavors": [
-      "Herbal",
-      "Oak",
-      "Caramel"
-    ],
-    "identificationConfidence": 0.62,
-    "imageSource": "retailer",
-    "imageSourceUrl": "https://seelbachs.com/products/charbay-american-whiskey-private-blend-150-5-proof-selected-by-seelbachs"
-  },
-  {
-    "id": "barrell-seagrass",
-    "name": "Barrell Seagrass",
-    "subtitle": "Rye Whiskey",
-    "category": "Rye",
-    "region": "United States",
-    "image": "https://static.wixstatic.com/media/12d4f8_af2c084fb13445c397495763b835c081~mv2.png/v1/crop/x_247,y_0,w_2056,h_3300/fill/w_750,h_1204,al_c,q_90,usm_0.66_1.00_0.01/Barrell%20Seagrass%20Solo%20Shot.png",
-    "flavors": [
-      "Tropical",
-      "Honey",
-      "Spice"
-    ],
-    "identificationConfidence": 0.92,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.barrellbourbon.com/seagrass"
-  },
-  {
-    "id": "barrell-whiskey-122-4",
-    "name": "Barrell Whiskey 122.4 Proof",
-    "subtitle": "Barrell Whiskey",
-    "category": "American Whiskey",
-    "region": "United States",
-    "image": "https://static.wixstatic.com/media/12d4f8_f2764ab5337a46bcb00107899d17f7f2~mv2.png/v1/crop/x_0,y_205,w_1229,h_1426/fill/w_692,h_802,al_c,q_90,usm_0.66_1.00_0.01/Barrell%20Whiskey%204.png",
-    "flavors": [
-      "Toffee",
-      "Oak",
-      "Spice"
-    ],
-    "identificationConfidence": 0.8,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.barrellbourbon.com/whiskey"
-  },
-  {
-    "id": "octomore-15",
-    "name": "Octomore 15",
-    "subtitle": "Islay Single Malt Scotch Whisky",
-    "category": "Scotch",
-    "region": "Islay, Scotland",
-    "image": "https://www.bruichladdich.com/cdn/shop/files/Octomore-15-1-Bottle.png?v=1725464716",
-    "flavors": [
-      "Peat",
-      "Smoke",
-      "Malt"
-    ],
-    "identificationConfidence": 0.85,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.bruichladdich.com/products/octomore-15-1"
-  },
-  {
-    "id": "found-north-15-year-whisky",
-    "name": "Found North 15 Year Whisky",
-    "subtitle": "Cask Strength Whisky",
-    "category": "Canadian Whisky",
-    "region": "Canada",
-    "image": "assets/bottles/placeholder.svg",
-    "flavors": [
-      "Maple",
-      "Rye Spice",
-      "Oak"
-    ],
-    "identificationConfidence": 0.62,
-    "imageSource": "placeholder",
-    "imageSourceUrl": "https://www.foundnorthwhisky.com/"
-  },
-  {
-    "id": "jack-daniels-single-barrel-rye",
-    "name": "Jack Daniel's Single Barrel Rye",
-    "subtitle": "Single Barrel Rye",
-    "category": "Rye",
-    "region": "Tennessee",
-    "image": "https://live-jd24-backend.pantheonsite.io/sites/default/files/2026-04/JD%20SB%20Rye%20SE%20Bottle.png",
-    "flavors": [
-      "Rye Spice",
-      "Banana",
-      "Oak"
-    ],
-    "identificationConfidence": 0.89,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.jackdaniels.com/whiskey/single-barrel-rye"
-  },
-  {
-    "id": "dettling-1867-bourbon",
-    "name": "Dettling 1867 Bourbon",
-    "subtitle": "Bourbon",
-    "category": "Bourbon",
-    "region": "United States",
-    "image": "https://images.squarespace-cdn.com/content/v1/5cebee5ffdcda30001c772ea/d655c59a-b003-4e54-9281-e54e1247f861/DSC02995-Enhanced-NR.jpg",
-    "flavors": [
-      "Caramel",
-      "Corn",
-      "Oak"
-    ],
-    "identificationConfidence": 0.58,
-    "imageSource": "official",
-    "imageSourceUrl": "https://dettling1867.com/home"
-  },
-  {
-    "id": "bookers-bourbon",
-    "name": "Booker's Bourbon",
-    "subtitle": "Small Batch Bourbon",
-    "category": "Bourbon",
-    "region": "Kentucky",
-    "image": "https://images.ctfassets.net/qbvb79w96uc8/2EXVxzApuJNrNL7TnetXyx/47207e9d2563d6a63415dee7110f4d64/Bookers.jpg",
-    "flavors": [
-      "Peanut",
-      "Vanilla",
-      "Leather"
-    ],
-    "identificationConfidence": 0.81,
-    "imageSource": "retailer",
-    "imageSourceUrl": "https://www.reservebar.com/collections/bookers-bourbon"
-  },
-  {
-    "id": "high-west-a-midwinter-nights-dram",
-    "name": "A Midwinter Night's Dram",
-    "subtitle": "Limited Engagement",
-    "category": "Rye",
-    "region": "Utah",
-    "image": "https://highwest.com/cdn/shop/files/HW_COM_PDPBanner-MidwinterNightsDramAct10-750ml_3000x1358_cdbec59e-d58a-42b3-839a-6e2e4301551d_600x600@2x.jpg?v=1664469770",
-    "flavors": [
-      "Port",
-      "Spice",
-      "Dark Fruit"
-    ],
-    "identificationConfidence": 0.89,
-    "imageSource": "official",
-    "imageSourceUrl": "https://highwest.com/pages/a-midwinter-nights-dram"
-  },
-  {
-    "id": "new-riff-8-year-rye",
-    "name": "New Riff 8 Year Rye",
-    "subtitle": "Kentucky Straight Rye Whiskey",
-    "category": "Rye",
-    "region": "Kentucky",
-    "image": "https://www.newriffdistilling.com/wp-content/uploads/2025/08/NRD_8-YEAR_RYE_HERO_TRANSPARENT-scaled.png",
-    "flavors": [
-      "Mint",
-      "Rye Spice",
-      "Oak"
-    ],
-    "identificationConfidence": 0.93,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.newriffdistilling.com/spirits/8-year-old-kentucky-straight-rye-whiskey/"
-  },
-  {
-    "id": "little-book-shelf-bottle",
-    "name": "Little Book",
-    "subtitle": "Limited Release Whiskey",
-    "category": "Blended Whiskey",
-    "region": "Kentucky",
-    "image": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/5b193389941ffa7fb323d807_Little-Book-Bottle-04a.jpg",
-    "flavors": [
-      "Caramel",
-      "Grain",
-      "Spice"
-    ],
-    "identificationConfidence": 0.64,
-    "imageSource": "review",
-    "imageSourceUrl": "https://www.breakingbourbon.com/review/little-book-chapter-8-path-not-taken"
-  },
-  {
-    "id": "barrell-rye",
-    "name": "Barrell Rye",
-    "subtitle": "Cask Strength Rye Whiskey",
-    "category": "Rye",
-    "region": "United States",
-    "image": "https://static.wixstatic.com/media/12d4f8_93499956bfdf4ac485c767f821997735~mv2.png/v1/crop/x_0,y_54,w_3468,h_5088/fill/w_762,h_1118,al_c,q_90,usm_0.66_1.00_0.01/Barrell%20Rye%20Batch%20004%20Solo%20Shot.png",
-    "flavors": [
-      "Rye Spice",
-      "Honey",
-      "Oak"
-    ],
-    "identificationConfidence": 0.81,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.barrellbourbon.com/rye"
-  },
-  {
-    "id": "michters-barrel-strength-rye",
-    "name": "Michter's Barrel Strength Rye",
-    "subtitle": "Kentucky Straight Rye",
-    "category": "Rye",
-    "region": "Kentucky",
-    "image": "https://michters.com/wp-content/uploads/2025/02/BSR_418x1378100_2025.jpg",
-    "flavors": [
-      "Toffee",
-      "Rye Spice",
-      "Herbal"
-    ],
-    "identificationConfidence": 0.88,
-    "imageSource": "official",
-    "imageSourceUrl": "https://michters.com/us-1-barrel-strength-rye/"
-  },
-  {
-    "id": "very-olde-st-nick-immaculata",
-    "name": "Very Olde St. Nick Immaculata",
-    "subtitle": "Ancient Cask Bourbon",
-    "category": "Bourbon",
-    "region": "Kentucky",
-    "image": "https://huntsmanheritage.com/cdn/shop/files/BuyVeryOldeSt.NickImmaculataAncientCaskBourbonWhiskeyOnline_1024x1024.jpg?v=1758684132",
-    "flavors": [
-      "Caramel",
-      "Oak",
-      "Cherry"
-    ],
-    "identificationConfidence": 0.85,
-    "imageSource": "retailer",
-    "imageSourceUrl": "https://huntsmanheritage.com/products/very-olde-st-nick-immaculata-ancient-cask-bourbon-whiskey"
-  },
-  {
-    "id": "galaxy-express-999",
-    "name": "Galaxy Express 999",
-    "subtitle": "Whisky Selection",
-    "category": "World Whisky",
-    "region": "미확인",
-    "image": "https://88bamboo.co/cdn/shop/articles/photo_2026-01-16_16.07.06_f90d8ce9-e82f-4a70-9f26-231dd1ce12fc_1200x1200.jpg?v=1768585543",
-    "flavors": [
-      "Honey",
-      "Fruit",
-      "Oak"
-    ],
-    "identificationConfidence": 0.62,
-    "imageSource": "review",
-    "imageSourceUrl": "https://88bamboo.co/blogs/whisky-reviews/all-aboard-the-galaxy-express-999-taste-testing-craftbros-galaxy-express-999-whiskybros-world-malt-blend-first-departure-%EC%9D%80%ED%95%98%EC%B2%A0%EB%8F%84999-50-%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EB%94%94%ED%8C%8C%EC%B2%98-long-journey-%EC%9D%80%ED%95%98%EC%B2%A0%EB%8F%84999-52-%EB%A1%B1-%EC%A0%80%EB%8B%88"
-  },
-  {
-    "id": "sirens-whisky-from-the-shop",
-    "name": "Siren's Whisky from the Shop",
-    "subtitle": "Speyside Single Malt",
-    "category": "Scotch",
-    "region": "Speyside, Scotland",
-    "image": "assets/bottles/placeholder.svg",
-    "flavors": [
-      "Malt",
-      "Orchard Fruit",
-      "Vanilla"
-    ],
-    "identificationConfidence": 0.34,
-    "imageSource": "placeholder",
-    "imageSourceUrl": "https://thespeysidewhisky.com/collections/shop-bottle"
-  },
-  {
     "id": "makers-mark-bourbon",
     "name": "Maker's Mark",
     "subtitle": "Kentucky Straight Bourbon Whisky",
@@ -400,112 +16,320 @@
     "imageSourceUrl": "https://www.breakingbourbon.com/review/makers-mark-bourbon"
   },
   {
-    "id": "rossville-union-barrel-proof-rye",
-    "name": "Rossville Union Barrel Proof Rye",
-    "subtitle": "Straight Rye Whiskey",
-    "category": "Rye",
-    "region": "Indiana",
-    "image": "https://www.rossvilleunion.com/wp-content/themes/rossvilleunion/images/bottle-barrel-proof.png",
-    "flavors": [
-      "Mint",
-      "Spice",
-      "Caramel"
-    ],
-    "identificationConfidence": 0.89,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.rossvilleunion.com/"
-  },
-  {
-    "id": "jack-daniels-10-year-batch-04",
-    "name": "Jack Daniel's 10 Year",
-    "subtitle": "Batch 04 Tennessee Whiskey",
-    "category": "Tennessee Whiskey",
-    "region": "Tennessee",
-    "image": "https://live-jd24-backend.pantheonsite.io/sites/default/files/2026-03/10-Year-Tennessee-Whiskey%20TRANS.png",
-    "flavors": [
-      "Banana",
-      "Caramel",
-      "Oak"
-    ],
-    "identificationConfidence": 0.9,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.jackdaniels.com/whiskey/10-year-old-tennessee-whiskey"
-  },
-  {
-    "id": "old-forester-1920-prohibition-style",
-    "name": "Old Forester 1920",
-    "subtitle": "Prohibition Style",
-    "category": "Bourbon",
-    "region": "Kentucky",
-    "image": "https://www.oldforester.com/wp-content/uploads/2019/06/Old-Forester-1920-750ml-New-Label_TransparetnBG-1-copy.png",
-    "flavors": [
-      "Chocolate",
-      "Cherry",
-      "Oak"
-    ],
-    "identificationConfidence": 0.94,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.oldforester.com/products/old-forester-1920-style-prohibition-whisky/"
-  },
-  {
-    "id": "knob-creek-9-year",
-    "name": "Knob Creek 9 Year",
+    "id": "wild-turkey-rare-breed-bourbon",
+    "name": "Wild Turkey Rare Breed",
     "subtitle": "Kentucky Straight Bourbon Whiskey",
     "category": "Bourbon",
     "region": "Kentucky",
-    "image": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/5fad78acc64360716464dff3_Knob-Creek-Small-Batch-9-Year-06a.jpg",
+    "image": "assets/bottles/placeholder.svg",
     "flavors": [
-      "Oak",
       "Vanilla",
-      "Nutty"
+      "Spice",
+      "Oak"
     ],
-    "identificationConfidence": 0.92,
-    "imageSource": "review",
-    "imageSourceUrl": "https://www.breakingbourbon.com/review/knob-creek-small-batch-9-year-bourbon"
+    "identificationConfidence": 0.8,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.wildturkeybourbon.com/"
   },
   {
-    "id": "makers-mark-cask-strength-7-year-5-month",
-    "name": "Maker's Mark Cask Strength 7 Years 5 Months",
-    "subtitle": "Private Selection Style Bourbon",
-    "category": "Bourbon",
-    "region": "Kentucky",
-    "image": "https://cdn.prod.website-files.com/5ace2bae31f6d3c07d267cb9/5b1a7553844733304b1d501f_Makers-Mark-Cask-Strength-Bottle-01a.jpg",
+    "id": "the-balvenie-portwood-21-year",
+    "name": "The Balvenie PortWood 21 Year",
+    "subtitle": "Single Malt Scotch Whisky",
+    "category": "Scotch",
+    "region": "Speyside, Scotland",
+    "image": "assets/bottles/placeholder.svg",
     "flavors": [
-      "Wheat",
-      "Caramel",
+      "Honey",
+      "Fruit",
+      "Oak"
+    ],
+    "identificationConfidence": 0.61,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.thebalvenie.com/"
+  },
+  {
+    "id": "the-whisky-agency-fox-tube",
+    "name": "The Whisky Agency Fox Tube",
+    "subtitle": "Independent Bottling Candidate",
+    "category": "Whisky",
+    "region": "Unknown",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Malt",
+      "Cask",
+      "Mystery"
+    ],
+    "identificationConfidence": 0.39,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.thewhiskyagency.com/"
+  },
+  {
+    "id": "craftbros-galaxy-express-999-first-departure",
+    "name": "Craftbros Galaxy Express 999 First Departure",
+    "subtitle": "WhiskyBros World Malt Blend",
+    "category": "World Whisky",
+    "region": "Korea",
+    "image": "https://88bamboo.co/cdn/shop/articles/photo_2026-01-16_16.07.06_f90d8ce9-e82f-4a70-9f26-231dd1ce12fc_1200x1200.jpg?v=1768585543",
+    "flavors": [
+      "Malt",
+      "Fruit",
       "Spice"
     ],
     "identificationConfidence": 0.79,
     "imageSource": "review",
-    "imageSourceUrl": "https://www.breakingbourbon.com/review/makers-mark-cask-strength-bourbon"
+    "imageSourceUrl": "https://88bamboo.co/blogs/whisky-reviews/all-aboard-the-galaxy-express-999-taste-testing-craftbros-galaxy-express-999-whiskybros-world-malt-blend-first-departure-%EC%9D%80%ED%95%98%EC%B2%A0%EB%8F%84999-50-%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EB%94%94%ED%8C%8C%EC%B2%98-long-journey-%EC%9D%80%ED%95%98%EC%B2%A0%EB%8F%84999-52-%EB%A1%B1-%EC%A0%80%EB%8B%88"
   },
   {
-    "id": "balcones-eclipse-texas-rye",
-    "name": "Balcones Eclipse Texas Rye",
-    "subtitle": "Cask Strength Straight Rye",
-    "category": "Rye",
-    "region": "Texas",
-    "image": "https://www.balconesdistilling.com/assets/images/whiskySlider/balcones_texasrye.jpg",
-    "flavors": [
-      "Cocoa",
-      "Rye Spice",
-      "Oak"
-    ],
-    "identificationConfidence": 0.62,
-    "imageSource": "official",
-    "imageSourceUrl": "https://www.balconesdistilling.com/our-whisky/texas-rye"
-  },
-  {
-    "id": "anime-label-highland-single-malt",
-    "name": "Anime Label Highland Single Malt",
-    "subtitle": "Highland Single Malt",
-    "category": "Scotch",
-    "region": "Highland, Scotland",
-    "image": "assets/bottles/placeholder.svg",
+    "id": "craftbros-galaxy-express-999-long-journey",
+    "name": "Craftbros Galaxy Express 999 Long Journey",
+    "subtitle": "WhiskyBros World Malt Blend",
+    "category": "World Whisky",
+    "region": "Korea",
+    "image": "https://88bamboo.co/cdn/shop/articles/photo_2026-01-16_16.07.06_f90d8ce9-e82f-4a70-9f26-231dd1ce12fc_1200x1200.jpg?v=1768585543",
     "flavors": [
       "Malt",
       "Honey",
+      "Citrus"
+    ],
+    "identificationConfidence": 0.85,
+    "imageSource": "review",
+    "imageSourceUrl": "https://88bamboo.co/blogs/whisky-reviews/all-aboard-the-galaxy-express-999-taste-testing-craftbros-galaxy-express-999-whiskybros-world-malt-blend-first-departure-%EC%9D%80%ED%95%98%EC%B2%A0%EB%8F%84999-50-%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EB%94%94%ED%8C%8C%EC%B2%98-long-journey-%EC%9D%80%ED%95%98%EC%B2%A0%EB%8F%84999-52-%EB%A1%B1-%EC%A0%80%EB%8B%88"
+  },
+  {
+    "id": "lv-superior-quality-premium-finish",
+    "name": "LV Superior Quality Premium Finish",
+    "subtitle": "Unidentified Whisky Candidate",
+    "category": "Whisky",
+    "region": "Unknown",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Soft",
+      "Oak",
+      "Mystery"
+    ],
+    "identificationConfidence": 0.33,
+    "imageSource": "placeholder",
+    "imageSourceUrl": ""
+  },
+  {
+    "id": "unidentified-anime-label-whisky-box",
+    "name": "Unidentified Anime Label Whisky Box",
+    "subtitle": "Unidentified Box Candidate",
+    "category": "Whisky",
+    "region": "Unknown",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Malt",
+      "Art Label",
+      "Mystery"
+    ],
+    "identificationConfidence": 0.18,
+    "imageSource": "placeholder",
+    "imageSourceUrl": ""
+  },
+  {
+    "id": "glenfarclas-family-casks",
+    "name": "Glenfarclas The Family Casks",
+    "subtitle": "Single Cask Scotch Whisky Candidate",
+    "category": "Scotch",
+    "region": "Speyside, Scotland",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Sherry",
+      "Dried Fruit",
+      "Oak"
+    ],
+    "identificationConfidence": 0.62,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.glenfarclas.com/"
+  },
+  {
+    "id": "nikka-single-malt-yoichi",
+    "name": "Nikka Single Malt Yoichi",
+    "subtitle": "Japanese Single Malt Whisky",
+    "category": "Japanese Whisky",
+    "region": "Yoichi, Japan",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Peat",
+      "Fruit",
+      "Malt"
+    ],
+    "identificationConfidence": 0.77,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.nikka.com/"
+  },
+  {
+    "id": "nikka-taketsuru-pure-malt",
+    "name": "Nikka Taketsuru Pure Malt",
+    "subtitle": "Pure Malt Whisky",
+    "category": "Japanese Whisky",
+    "region": "Japan",
+    "image": "https://www.nikka.com/en/brands/taketsuru/img/og.jpg",
+    "flavors": [
+      "Malt",
+      "Apple",
+      "Smoke"
+    ],
+    "identificationConfidence": 0.93,
+    "imageSource": "official",
+    "imageSourceUrl": "https://www.nikka.com/en/brands/taketsuru/"
+  },
+  {
+    "id": "the-yamazaki-distillers-reserve",
+    "name": "The Yamazaki Distiller’s Reserve",
+    "subtitle": "Single Malt Japanese Whisky",
+    "category": "Japanese Whisky",
+    "region": "Yamazaki, Japan",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Strawberry",
+      "Mizunara",
+      "Vanilla"
+    ],
+    "identificationConfidence": 0.77,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.suntory.com/whisky/yamazaki/"
+  },
+  {
+    "id": "hibiki-japanese-harmony",
+    "name": "Hibiki Japanese Harmony",
+    "subtitle": "Blended Japanese Whisky",
+    "category": "Japanese Whisky",
+    "region": "Japan",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Honey",
+      "Orange Peel",
+      "Oak"
+    ],
+    "identificationConfidence": 0.78,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.suntory.com/whisky/hibiki/"
+  },
+  {
+    "id": "hibiki-blossom-harmony",
+    "name": "Hibiki Blossom Harmony",
+    "subtitle": "Limited Edition Blended Japanese Whisky",
+    "category": "Japanese Whisky",
+    "region": "Japan",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Sakura",
+      "Honey",
       "Fruit"
+    ],
+    "identificationConfidence": 0.79,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.suntory.com/whisky/hibiki/"
+  },
+  {
+    "id": "cedar-ridge-single-barrel-bourbon",
+    "name": "Cedar Ridge Single Barrel Bourbon",
+    "subtitle": "Straight Bourbon Whiskey",
+    "category": "Bourbon",
+    "region": "Iowa",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Corn",
+      "Vanilla",
+      "Oak"
+    ],
+    "identificationConfidence": 0.77,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://cedarridgedistillery.com/"
+  },
+  {
+    "id": "real-spirits-texas-hill-country-whiskey",
+    "name": "Real Spirits Texas Hill Country Whiskey",
+    "subtitle": "Texas Hill Country Whiskey",
+    "category": "American Whiskey",
+    "region": "Texas",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Grain",
+      "Honey",
+      "Oak"
+    ],
+    "identificationConfidence": 0.69,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://realalebrewing.com/online-spirits/"
+  },
+  {
+    "id": "milam-greene-single-barrel-bourbon",
+    "name": "Milam & Greene Single Barrel Bourbon",
+    "subtitle": "Single Barrel Bourbon Candidate",
+    "category": "Bourbon",
+    "region": "Texas",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Caramel",
+      "Oak",
+      "Spice"
+    ],
+    "identificationConfidence": 0.52,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://milamandgreenewhiskey.com/"
+  },
+  {
+    "id": "ry3-cigar-series-rye-whiskey",
+    "name": "RY3 Cigar Series",
+    "subtitle": "Cask Finish Rye Whiskey",
+    "category": "Rye Whiskey",
+    "region": "United States",
+    "image": "https://static.wixstatic.com/media/109e24_abbca4a8eb474ea8a5dd651e0953d208~mv2.png/v1/fill/w_119,h_500,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cigar.png",
+    "flavors": [
+      "Rye Spice",
+      "Cigar Box",
+      "Oak"
+    ],
+    "identificationConfidence": 0.93,
+    "imageSource": "official",
+    "imageSourceUrl": "https://www.ry3whiskey.com/cigar-series-cask-finish"
+  },
+  {
+    "id": "ry3-7-year-straight-rye-whiskey",
+    "name": "RY3 7 Year Straight Rye Whiskey",
+    "subtitle": "Straight Rye Whiskey",
+    "category": "Rye Whiskey",
+    "region": "United States",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Rye",
+      "Mint",
+      "Oak"
+    ],
+    "identificationConfidence": 0.75,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.ry3whiskey.com/"
+  },
+  {
+    "id": "ry3-toasted-barrel-finish-rye-whiskey",
+    "name": "RY3 Toasted Barrel Finish Rye Whiskey",
+    "subtitle": "Rye Whiskey Candidate",
+    "category": "Rye Whiskey",
+    "region": "United States",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Toffee",
+      "Rye Spice",
+      "Oak"
+    ],
+    "identificationConfidence": 0.67,
+    "imageSource": "placeholder",
+    "imageSourceUrl": "https://www.ry3whiskey.com/"
+  },
+  {
+    "id": "unknown-french-wooden-box",
+    "name": "Unknown French Wooden Box",
+    "subtitle": "Unidentified Spirits Box",
+    "category": "Spirits",
+    "region": "France",
+    "image": "assets/bottles/placeholder.svg",
+    "flavors": [
+      "Wood Box",
+      "Mystery",
+      "Oak"
     ],
     "identificationConfidence": 0.19,
     "imageSource": "placeholder",

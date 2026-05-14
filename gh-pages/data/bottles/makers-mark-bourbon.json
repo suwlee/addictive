@@ -11,7 +11,7 @@
     "Wheat",
     "Caramel"
   ],
-  "description": "Maker's Mark는 밀을 사용한 부드럽고 달콤한 버번 스타일로 잘 알려져 있습니다. 바닐라, 캐러멜, 밀빵 같은 둥근 단맛이 편안하게 이어집니다.",
+  "description": "Maker's Mark는 밀을 사용한 부드럽고 달콤한 버번 스타일로 사랑받는 클래식입니다. 바닐라, 캐러멜, 밀빵 같은 둥근 단맛이 편안하게 이어집니다.",
   "notes": {
     "nose": "바닐라, 캐러멜, 밀빵, 약한 오크.",
     "palate": "부드러운 단맛, 토피, 시리얼, 낮은 스파이스.",
@@ -29,8 +29,8 @@
     "productConfidence": 0.96,
     "variantConfidence": 0.9,
     "imageMatchConfidence": 0.72,
-    "evidence": "제품명은 확실하나 이미지 출처는 리뷰 페이지로 대체했습니다.",
+    "evidence": "브랜드명과 기본 제품명이 선명하며, 대체 이미지는 동일 제품 리뷰 이미지입니다.",
     "issues": []
   },
-  "hookMessage": "Maker's Mark, 오늘 밤을 더 깊고 달콤하게 만드는 한 잔."
+  "hookMessage": "Maker's Mark, 부드러운 단맛으로 밤의 첫 잔을 열어보세요."
 }

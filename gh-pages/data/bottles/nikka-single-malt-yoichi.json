@@ -1,0 +1,36 @@
+{
+  "id": "nikka-single-malt-yoichi",
+  "name": "Nikka Single Malt Yoichi",
+  "subtitle": "Japanese Single Malt Whisky",
+  "category": "Japanese Whisky",
+  "region": "Yoichi, Japan",
+  "abv": "45%",
+  "age": "NAS",
+  "flavors": [
+    "Peat",
+    "Fruit",
+    "Malt"
+  ],
+  "description": "Nikka Single Malt Yoichi는 해안 증류소 특유의 힘 있는 몰트, 은은한 피트, 과실감이 어우러지는 일본 싱글 몰트입니다.",
+  "notes": {
+    "nose": "과실, 몰트, 약한 피트, 오크.",
+    "palate": "단단한 몰트, 스모크, 사과, 스파이스.",
+    "finish": "드라이한 피트와 몰트 여운."
+  },
+  "identificationConfidence": 0.77,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.nikka.com/",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.77,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.95,
+    "productConfidence": 0.92,
+    "variantConfidence": 0.8,
+    "imageMatchConfidence": 0.0,
+    "evidence": "Nikka, Single Malt Yoichi 및 일본어 제품명이 강하게 일치합니다. 공식 이미지 URL은 확보하지 못했습니다.",
+    "issues": []
+  },
+  "hookMessage": "Yoichi, 바다 바람 같은 피트와 몰트의 균형."
+}

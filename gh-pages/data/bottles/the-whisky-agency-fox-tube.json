@@ -1,0 +1,39 @@
+{
+  "id": "the-whisky-agency-fox-tube",
+  "name": "The Whisky Agency Fox Tube",
+  "subtitle": "Independent Bottling Candidate",
+  "category": "Whisky",
+  "region": "Unknown",
+  "abv": "Unknown",
+  "age": "Unknown",
+  "flavors": [
+    "Malt",
+    "Cask",
+    "Mystery"
+  ],
+  "description": "The Whisky Agency는 개성적인 라벨과 독립 병입으로 알려진 보틀러입니다. 병입 정보가 확정되면 캐스크, 증류소, 숙성 정보에 따라 메뉴 설명을 다시 다듬는 것이 좋습니다.",
+  "notes": {
+    "nose": "병입 정보 확인 전까지 중립적인 몰트와 캐스크 톤으로 표기합니다.",
+    "palate": "세부 스펙 미확정으로 테이스팅 노트는 보수적으로 유지합니다.",
+    "finish": "검수 후 실제 제품 정보에 맞춰 업데이트가 필요합니다."
+  },
+  "identificationConfidence": 0.39,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.thewhiskyagency.com/",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.39,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.75,
+    "productConfidence": 0.35,
+    "variantConfidence": 0.2,
+    "imageMatchConfidence": 0.0,
+    "evidence": "The Whisky Agency 문구와 일러스트 튜브 단서가 있으나 증류소/병입명이 불명확합니다.",
+    "issues": [
+      "confidence가 낮아 목록 노출에서 제외됩니다.",
+      "증류소와 병입명을 추가 확인해야 합니다."
+    ]
+  },
+  "hookMessage": "미스터리한 독립 병입, 검수 후 메뉴에 올릴 후보입니다."
+}

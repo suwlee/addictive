@@ -1,0 +1,38 @@
+{
+  "id": "ry3-toasted-barrel-finish-rye-whiskey",
+  "name": "RY3 Toasted Barrel Finish Rye Whiskey",
+  "subtitle": "Rye Whiskey Candidate",
+  "category": "Rye Whiskey",
+  "region": "United States",
+  "abv": "Unknown",
+  "age": "NAS",
+  "flavors": [
+    "Toffee",
+    "Rye Spice",
+    "Oak"
+  ],
+  "description": "RY3 Toasted Barrel Finish Rye Whiskey 후보는 토스티한 오크와 라이 스파이스, 달콤한 토피 캐릭터가 어울리는 스타일로 소개하기 좋습니다.",
+  "notes": {
+    "nose": "토피, 바닐라, 라이, 토스트 오크.",
+    "palate": "달콤한 오크, 향신료, 카라멜.",
+    "finish": "따뜻한 토스트 향과 라이 스파이스."
+  },
+  "identificationConfidence": 0.67,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.ry3whiskey.com/",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.67,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.95,
+    "productConfidence": 0.78,
+    "variantConfidence": 0.55,
+    "imageMatchConfidence": 0.0,
+    "evidence": "RY3 Rye Whiskey와 붉은 계열 피니시 표기 단서가 있으나 Toasted Barrel Finish 세부명은 후보입니다.",
+    "issues": [
+      "피니시 세부명 재검수가 필요합니다."
+    ]
+  },
+  "hookMessage": "RY3 Toasted 후보, 달콤한 오크와 라이의 따뜻한 만남."
+}

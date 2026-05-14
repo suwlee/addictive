@@ -1,0 +1,39 @@
+{
+  "id": "unknown-french-wooden-box",
+  "name": "Unknown French Wooden Box",
+  "subtitle": "Unidentified Spirits Box",
+  "category": "Spirits",
+  "region": "France",
+  "abv": "Unknown",
+  "age": "Unknown",
+  "flavors": [
+    "Wood Box",
+    "Mystery",
+    "Oak"
+  ],
+  "description": "프랑스어 목재 케이스 후보는 브랜드와 주종 확인이 필요한 내부 검수 항목입니다. 확정 전에는 공개 메뉴에 사용하지 않는 것이 안전합니다.",
+  "notes": {
+    "nose": "제품명 미확정.",
+    "palate": "검수 전까지 구체 노트 보류.",
+    "finish": "추가 자료 확보 후 업데이트 필요."
+  },
+  "identificationConfidence": 0.19,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.19,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.3,
+    "productConfidence": 0.2,
+    "variantConfidence": 0.15,
+    "imageMatchConfidence": 0.0,
+    "evidence": "목재 케이스 일부와 프랑스어 필기체만 보이며 제품명 판독이 어렵습니다.",
+    "issues": [
+      "confidence가 낮아 목록 노출에서 제외됩니다.",
+      "브랜드/제품명/주종 확인이 필요합니다."
+    ]
+  },
+  "hookMessage": "정체 확인 전까지 내부 후보로 보관합니다."
+}

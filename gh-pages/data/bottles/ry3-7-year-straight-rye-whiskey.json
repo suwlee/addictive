@@ -1,0 +1,36 @@
+{
+  "id": "ry3-7-year-straight-rye-whiskey",
+  "name": "RY3 7 Year Straight Rye Whiskey",
+  "subtitle": "Straight Rye Whiskey",
+  "category": "Rye Whiskey",
+  "region": "United States",
+  "abv": "Unknown",
+  "age": "7 Years",
+  "flavors": [
+    "Rye",
+    "Mint",
+    "Oak"
+  ],
+  "description": "RY3 7 Year Straight Rye Whiskey는 라이의 허브와 향신료, 숙성에서 오는 오크와 바닐라가 균형을 이루는 스트레이트 라이 위스키입니다.",
+  "notes": {
+    "nose": "민트, 라이, 바닐라, 구운 오크.",
+    "palate": "후추, 허브, 캐러멜, 오크.",
+    "finish": "드라이한 라이 스파이스와 바닐라."
+  },
+  "identificationConfidence": 0.75,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "https://www.ry3whiskey.com/",
+  "identification": {
+    "status": "verified",
+    "confidence": 0.75,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.97,
+    "productConfidence": 0.88,
+    "variantConfidence": 0.75,
+    "imageMatchConfidence": 0.0,
+    "evidence": "RY3, 7 Years, Rye Whiskey 단서가 강합니다. 공식 동일 제품 이미지는 확정하지 못했습니다.",
+    "issues": []
+  },
+  "hookMessage": "RY3 7 Year, 라이 스파이스가 깔끔하게 살아나는 선택."
+}

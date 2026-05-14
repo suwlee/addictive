@@ -1,0 +1,39 @@
+{
+  "id": "unidentified-anime-label-whisky-box",
+  "name": "Unidentified Anime Label Whisky Box",
+  "subtitle": "Unidentified Box Candidate",
+  "category": "Whisky",
+  "region": "Unknown",
+  "abv": "Unknown",
+  "age": "Unknown",
+  "flavors": [
+    "Malt",
+    "Art Label",
+    "Mystery"
+  ],
+  "description": "애니메이션 아트워크가 돋보이는 후보 보틀입니다. 제품명이 확정되면 컬렉터블 위스키 또는 협업 보틀로 소개할 수 있습니다.",
+  "notes": {
+    "nose": "제품명 미확정.",
+    "palate": "검수 전까지 구체 노트 보류.",
+    "finish": "추가 자료 확보 후 업데이트 필요."
+  },
+  "identificationConfidence": 0.18,
+  "image": "assets/bottles/placeholder.svg",
+  "imageSource": "placeholder",
+  "imageSourceUrl": "",
+  "identification": {
+    "status": "candidate",
+    "confidence": 0.18,
+    "confidenceMethod": "weighted-average-v1",
+    "brandConfidence": 0.25,
+    "productConfidence": 0.2,
+    "variantConfidence": 0.2,
+    "imageMatchConfidence": 0.0,
+    "evidence": "일러스트 박스 외 제품 텍스트를 충분히 판독하지 못했습니다.",
+    "issues": [
+      "confidence가 낮아 목록 노출에서 제외됩니다.",
+      "브랜드와 제품명 확인이 필요합니다."
+    ]
+  },
+  "hookMessage": "정체가 밝혀지면 메뉴의 포인트가 될 아트 라벨 후보."
+}

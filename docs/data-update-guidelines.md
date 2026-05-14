@@ -25,11 +25,18 @@ gh-pages/
 규칙:
 - 제공 이미지 crop 이미지는 사용하지 말 것.
 - 공식 홈페이지/브랜드 CDN/press kit 이미지를 최우선으로 사용할 것.
-- 공식 동일 제품 이미지를 못 찾았지만 라벨 confidence가 높으면 official-alternative 이미지를 허용할 것.
-- 리테일러/리뷰 이미지는 대체 수단으로 허용하되 imageSource에 retailer 또는 review로 기록할 것.
+- 공식 동일 제품 이미지를 못 찾았지만 텍스트/라벨 confidence가 높으면 이미지 검색을 사용해 대체 이미지를 찾을 것.
+- 텍스트/라벨 confidence가 높은 기준은 대략 brandConfidence >= 0.8 이고 productConfidence >= 0.65 인 경우로 본다.
+- 이미지 검색 결과는 아무 이미지나 쓰지 말고 아래 우선순위로 선택할 것.
+  1. 공식 사이트의 동일 제품 이미지: imageSource = official
+  2. 공식 사이트의 같은 브랜드/라인 대체 이미지: imageSource = official-alternative
+  3. 리테일러 제품 이미지: imageSource = retailer
+  4. 리뷰/미디어 이미지: imageSource = review
+  5. 기타 신뢰 가능한 참조 이미지: imageSource = reference
+- 공식 대체 이미지나 리테일러/리뷰 이미지를 쓰는 경우, 동일 제품 이미지가 아닐 수 있음을 identification.issues에 명시할 것.
 - 이미지 출처 URL을 반드시 imageSourceUrl에 기록할 것.
 - 이미지가 동일 제품이 아니면 imageMatchConfidence를 낮게 유지하고 identification.issues에 명시할 것.
-- 동일/대체 이미지를 모두 못 찾으면 assets/bottles/placeholder.svg를 사용할 것.
+- 동일/대체 이미지를 모두 못 찾거나 텍스트/라벨 confidence가 낮으면 assets/bottles/placeholder.svg를 사용할 것.
 - confidence는 세부 confidence의 가중 평균으로 계산할 것.
   - brandConfidence: 0.30
   - productConfidence: 0.35
@@ -76,6 +83,39 @@ confidence =
 - `review`: 리뷰/미디어 이미지
 - `reference`: 기타 신뢰 가능한 참조 이미지
 - `placeholder`: 이미지 미확보
+
+## 공식 이미지를 못 찾은 경우의 이미지 검색 기준
+
+공식 동일 제품 이미지를 못 찾았더라도 텍스트/라벨 신뢰도가 높으면 이미지 검색을 통해 대체 이미지를 사용할 수 있습니다.
+
+권장 조건:
+
+```text
+brandConfidence >= 0.8
+productConfidence >= 0.65
+```
+
+이 조건을 만족하면 대체 이미지를 사용할 수 있습니다. 단, 대체 이미지가 동일 제품/배치임을 보장하지 못하면 `imageMatchConfidence`를 낮게 유지합니다.
+
+예시:
+
+```json
+{
+  "imageSource": "official-alternative",
+  "imageSourceUrl": "https://cognac-peyrot.com/produit/heritage-coffret/",
+  "identification": {
+    "brandConfidence": 0.9,
+    "productConfidence": 0.75,
+    "variantConfidence": 0.55,
+    "imageMatchConfidence": 0.25,
+    "issues": [
+      "공식 대체 이미지이며 Lot 70 동일 병입 이미지는 아닙니다."
+    ]
+  }
+}
+```
+
+텍스트/라벨 confidence가 낮거나 대체 이미지가 오해를 만들 가능성이 크면 `placeholder`를 유지합니다.
 
 ## 브로셔 문구 원칙
 

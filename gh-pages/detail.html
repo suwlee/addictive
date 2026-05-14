@@ -88,8 +88,11 @@
 <span class="material-symbols-outlined">arrow_back</span>
 </a>
 <h1 class="text-[28px] leading-none font-bold text-center" style="font-family: Futura, 'Futura PT', 'Trebuchet MS', Arial, sans-serif; color: #c94f48; letter-spacing: -0.045em;">ADD:CT:VE</h1>
+<button id="share-button" class="absolute right-gutter text-primary dark:text-primary-fixed active:opacity-70 transition-opacity hidden" type="button" aria-label="공유하기">
+<span class="material-symbols-outlined">share</span>
+</button>
 </header>
-<main id="content" class="relative pb-32 hidden">
+<main id="content" class="relative pb-16 hidden">
 <div class="relative h-[574px] w-full overflow-hidden flex items-center justify-center bg-surface-container-lowest">
 <div class="absolute inset-0 z-0 opacity-40 blur-3xl scale-110">
 <div class="absolute top-1/4 left-1/4 w-64 h-64 bg-primary rounded-full filter blur-[100px]"></div>
@@ -156,21 +159,13 @@
 </div>
 </main>
 <div id="status" class="min-h-screen flex items-center justify-center px-container-margin text-center text-on-surface-variant font-body-md">보틀 정보를 불러오는 중입니다.</div>
-<div id="share-bar" class="fixed bottom-0 left-0 w-full z-[60] bg-surface/90 dark:bg-surface/90 backdrop-blur-xl px-container-margin pb-stack-lg pt-stack-md border-t border-white/5 hidden">
-<button id="share-button" class="w-full bg-primary text-on-primary font-label-lg text-label-lg py-stack-md rounded-xl shadow-lg active:scale-95 transition-all uppercase tracking-widest flex items-center justify-center gap-stack-sm">
-<span class="material-symbols-outlined">share</span>
-<span id="share-label">Share</span>
-</button>
-</div>
 <script>
 const MIN_CONFIDENCE = 0.5;
 const params = new URLSearchParams(location.search);
 const selectedId = params.get('id');
 const content = document.querySelector('#content');
 const status = document.querySelector('#status');
-const shareBar = document.querySelector('#share-bar');
 const shareButton = document.querySelector('#share-button');
-const shareLabel = document.querySelector('#share-label');
 let currentBottle = null;
 
 function setText(selector, value) {
@@ -201,7 +196,7 @@ function renderBottle(bottle) {
 
   status.classList.add('hidden');
   content.classList.remove('hidden');
-  shareBar.classList.remove('hidden');
+  shareButton.classList.remove('hidden');
 }
 
 async function resolveBottleId() {
@@ -245,9 +240,9 @@ async function shareBottle() {
     }
 
     await navigator.clipboard.writeText(shareData.url);
-    shareLabel.textContent = 'Copied';
+    shareButton.classList.add('text-tertiary');
     setTimeout(() => {
-      shareLabel.textContent = 'Share';
+      shareButton.classList.remove('text-tertiary');
     }, 1600);
   } catch (error) {
     console.error(error);

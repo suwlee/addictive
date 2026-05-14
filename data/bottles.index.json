@@ -1,0 +1,11 @@
+[
+  {
+    "id": "very-olde-st-nick-immaculata",
+    "name": "Very Olde St. Nick Immaculata",
+    "subtitle": "Ancient Cask Bourbon",
+    "category": "Bourbon",
+    "region": "Kentucky",
+    "image": "assets/bottles/vosn-immaculata.jpeg",
+    "flavors": ["Caramel", "Oak", "Cherry"]
+  }
+]

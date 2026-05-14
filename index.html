@@ -222,7 +222,7 @@ function renderBottles() {
 
 async function loadBottles() {
   try {
-    const response = await fetch('data/bottles.json');
+    const response = await fetch('data/bottles.index.json');
     if (!response.ok) throw new Error(`보틀 데이터를 불러오지 못했습니다: ${response.status}`);
     state.bottles = await response.json();
     renderCategories();

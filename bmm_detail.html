@@ -187,13 +187,23 @@ function renderBottle(bottle) {
   content.classList.remove('hidden');
 }
 
+async function resolveBottleId() {
+  if (selectedId) return selectedId;
+
+  const response = await fetch('data/bottles.index.json');
+  if (!response.ok) throw new Error(`보틀 목록을 불러오지 못했습니다: ${response.status}`);
+  const bottles = await response.json();
+  return bottles[0]?.id;
+}
+
 async function loadBottle() {
   try {
-    const response = await fetch('data/bottles.json');
-    if (!response.ok) throw new Error(`보틀 데이터를 불러오지 못했습니다: ${response.status}`);
-    const bottles = await response.json();
-    const bottle = bottles.find((item) => item.id === selectedId) || bottles[0];
-    if (!bottle) throw new Error('표시할 보틀이 없습니다.');
+    const bottleId = await resolveBottleId();
+    if (!bottleId) throw new Error('표시할 보틀이 없습니다.');
+
+    const response = await fetch(`data/bottles/${encodeURIComponent(bottleId)}.json`);
+    if (!response.ok) throw new Error(`보틀 상세 데이터를 불러오지 못했습니다: ${response.status}`);
+    const bottle = await response.json();
     renderBottle(bottle);
   } catch (error) {
     console.error(error);
